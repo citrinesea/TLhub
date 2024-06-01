@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>https://citrinesea.github.io/TLhub/</link>
+    <link>https://citrinesea.github.io/translation/</link>
     
     <image>
-      <url>https://citrinesea.github.io/TLhub/icon.png</url>
+      <url>https://citrinesea.github.io/translation/icon.png</url>
       <title></title>
-      <link>https://citrinesea.github.io/TLhub/</link>
+      <link>https://citrinesea.github.io/translation/</link>
     </image>
     
-    <atom:link href="https://citrinesea.github.io/TLhub/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://citrinesea.github.io/translation/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Sat, 01 Jun 2024 03:02:12 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>b</title>
-      <link>https://citrinesea.github.io/TLhub/b/</link>
-      <guid>https://citrinesea.github.io/TLhub/b/</guid>
+      <link>https://citrinesea.github.io/translation/b/</link>
+      <guid>https://citrinesea.github.io/translation/b/</guid>
       <pubDate>Sat, 01 Jun 2024 03:02:12 GMT</pubDate>
       
       
@@ -29,24 +29,24 @@
       
       
       
-      <comments>https://citrinesea.github.io/TLhub/b/#disqus_thread</comments>
+      <comments>https://citrinesea.github.io/translation/b/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Many Minds, One Flower</title>
-      <link>https://citrinesea.github.io/TLhub/many_minds_one_flower/</link>
-      <guid>https://citrinesea.github.io/TLhub/many_minds_one_flower/</guid>
+      <link>https://citrinesea.github.io/translation/many_minds_one_flower/</link>
+      <guid>https://citrinesea.github.io/translation/many_minds_one_flower/</guid>
       <pubDate>Sat, 01 Jun 2024 02:50:00 GMT</pubDate>
       
         
         
           
           
-      <description> &lt;head&gt;
-   &lt;meta charset=&quot;utf-8&quot;&gt;
-   &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-   &lt;title&gt;Many Minds One Flower |</description>
+      <description>&lt;style&gt;[character=&quot;Midori&quot;][angry] {
+  --icon:url(&quot;https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_angry.png&quot;);
+}&lt;/style&gt;
+ &lt;div</description>
           
         
       
@@ -55,7 +55,7 @@
       
       
       
-      <comments>https://citrinesea.github.io/TLhub/many_minds_one_flower/#disqus_thread</comments>
+      <comments>https://citrinesea.github.io/translation/many_minds_one_flower/#disqus_thread</comments>
       
     </item>
     
