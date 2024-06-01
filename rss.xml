@@ -43,10 +43,8 @@
         
           
           
-      <description>&lt;style&gt;[character=&quot;Midori&quot;][angry] {
-  --icon:url(&quot;https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midori_angry.png&quot;);
-}&lt;/style&gt;
-&lt;link</description>
+      <description>&lt;meta property=&quot;og:url&quot; content=&quot;https://citrinesea.github.io/translation/many_minds_one_flower/&quot;/&gt;
+&lt;meta property=&quot;og:type&quot;</description>
           
         
       
