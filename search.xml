@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>9th Anniversary Log-In | Keito and Kanata</title>
-    <url>/translation//9th_anniversary_dialogue/</url>
-    <content><![CDATA[ .translationsquare video {
-  /* Make video to at least 100% wide and tall */
-  max-width: 100%; 
-  max-height: 100%; 
-
-  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
-  width: auto;
-  height: auto;
-}
-
-
-
-Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
-
-i’m not [spacing out]…? I was puka-pukaing to the sway of all the [penlights]~
-
-  
-  
-  
-  
-]]></content>
-  </entry>
-  <entry>
     <title>Many Minds, One Flower</title>
     <url>/translation//many_minds_one_flower/</url>
     <content><![CDATA[
@@ -183,546 +158,582 @@ Translation Notes
 ↑ Ikebana (生け花, lit. giving life to flowers) is the art of Japanese flower arrangement. Read about its principles and relationship with Buddhism here↑ Schools pass on the art of ikebana to students. Each individual school follows a particular set of principles, philosophies, and arranging techniques, all which vary depending on the school. Matching the name format of (school)-ryu (流), Kanata calls it 深海流 (School of Shinkai).↑ Originally, he says 生け花、生け魚 (flower arrangement, fish arrangement), but since it rhymed (hana, sakana), I wanted to preserve his pun.↑ A good reference for this is this Ritsu card from Fleur de Lis]]></content>
   </entry>
   <entry>
-    <title>Keito Management Stories</title>
-    <url>/translation//keito_management_stories/</url>
+    <title>Opera</title>
+    <url>/translation//opera/</url>
     <content><![CDATA[
-NOTE: Management stories take place in early !-era spring, so they're a good gauge for relationships pre-development.
- 
+
+    .preview-wrapper { /* in case jquery doesn't work */
+        display: none;
+    }
+    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+
+
+
     
+        
         
             
                 
-                    Characters
+            
+            
+                Opera
+                歌劇
+                
+                    Start Reading
+                
+            
+            
+                
+                    AKATSUKI is putting on an opera. Little do they know, several other idols are eager to jump in and participate too! It's made Keito start to feel anxious already...
                 
                 
-					
                     
-					
+                        
+                            Season
+                        
+                        
+                            Winter
                         
                     
-					
-                                                           
+                    
+                        
+                            Chapters
+                        
+                        
+                            8
+                        
+                    
+                    
+                        
+                            Writer
+                        
+                        
+                            Yuuki Yoshino
+                        
+                    
+                    
+                        
+                            Characters
+                        
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                            Translators
+                        
+                        
+                            citrinesea
+                        
+                    
+                    
+                        
+                            Proofreaders
+                        
+                        
+                            310mc
+                        
+                    
+                
+                
+                    
+                        Extra Information
+                    
+                    
+                        
+                            
+                                Event
+                            
+                            
+                                Clash of Arms! Opera of Moonlight Romance
+                            
+                        
+                        
+                            
+                                Event Duration
+                            
+                            
+                                 1/15/2016 (15:00 JST)-1/25/2016 (22:00 JST)
+                            
+                        
+                    
+                
+                
+                    
+                        Translator's Comments
+                    
+                    
+                        It's the way Chiaki volunteered to help and only gets a few lines during the actual opera. Kengeki no Mai is associated with this story.
+                    
+                
+                
+                    
+                        CG Gallery
+                    
+                    
+                        
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (1)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (4)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (1)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (5)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (5)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                        
+                    
+                
+                
+                    
+                        Associated Cards
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Island Where Ogres Dwell] Kuro Kiryu
+                                    [鬼がいる島] 鬼龍 紅郎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Wandering Tsujigiri] Leo Tsukinaga
+                                    ［流浪の辻斬り］月永 レオ
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Wandering Tsujigiri] Tetora Nagumo
+                                    ［流浪の辻斬り］月永 レオ
+                                    
+                                        
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Keito Hasumi
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Souma Kanzaki
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Chiaki Morisawa
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Wataru Hibiki
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Eichi Tenshuoin
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
                 
             
             
                 
-                    Writer
-                
-                
-                    Akira
-                
-            
-            
-                
-                    Translation
-                
-                
-                    citrinesea
-                
-            
-            
-                
-                   Proofreading
-                
-                
-                    310mc
+                    
+                        
+                            Chapters
+                            Prologue
+                        
+                    
+                    
+                        
+                            Opera
+                            1
+                            2
+                            3
+                            4
+                            5
+                            6
+                        
+                    
+                    
+                        
+                            Epilogue
+                        
+                                        
                 
             
         
     
-
-
-    Season: Early Spring [!]
-
-With Kuro
-
-    Location: Library
-
-
-Kiryu? It’s rare to see you in a place like this. What are you doing
-
-Oh, danna. You came at a good time. Couldja tell me what this word means?
-
-English reference books..? Were you studying?
-
- Yeah. Actually, Kanzaki asked me a question about English grammar the other day. It was something I could answer, but…
-Seems like he’s unbelievably bad at English. Did you know about that, danna?
-
-No… He has a serious disposition, so I was under the impression he could study just as diligently.
-Come to think of it, there are times where he struggles with English words we use on a daily basis.
-
- Right? Seems he can handle other subjects better than average, but English is the one thing he just can&#39;t do.
-Seein’ him like that got me worried, but I&#39;m not that good at studying myself. That’s how I ended up here, reviewin’ it.
-
-I see… I’m starting to get worried, too… I don’t think it’ll affect his grades, but still…
-Okay. I have some reference books and vocabulary flashcards I can recommend, so stay here. I’ll bring them.
-
-Alright, thanks. It&#39;s reassurin&#39; to know you’re willin’ to help us out, danna.
-
-With Tsukasa
-
-    Location: School Store
-
-
-There’s no urgent work today. Now and again, I have lunch at the school store, so I thought I’d come by, but…
-Why is there nothing but soybean bread left?
-The sign says “Now half-off the regular price!&#39;&#39;, but there’s still so much left over… As I figured, it’s not very popular.
-I don&#39;t like soybeans either. It&#39;s not something I’m going to force myself to eat. It&#39;s a pain, but I have no choice but to go to the cafeteria.
-
-Oh, Hasumi-senpai? Hello. The bread in the school store is exquisite. I also come here quite often.
-
-Suou? . . I don&#39;t want to eat soybean bread, even if it’s exquisite.
-From what I see, you seem to have bought a different kind of bread. I can’t believe you managed to buy them in time.
-
-As soon as the bell rang to signal the end of class, I headed straight to the school store.
-The first year’s classrooms are close to the school store, so if you walk quickly, you can buy the popular bread ♪
-Um, Hasumi-senpai. If you don&#39;t like the bread there, do you want to exchange it for the bread I bought?
-
-Is that okay…? It would help. To be honest, it’s not that they’re inedible: I just really don&#39;t like soybeans. I was just thinking about going to the cafeteria instead.
-
-I see, so Hasumi-senpai doesn&#39;t like soybeans. From now on, I will refrain from giving you anything with soybeans in it.
-But why is there so much surplus today? Is it a purchase order Mistake?
-
-Who knows... Suou, I&#39;m starting to feel a little sick, so I&#39;ll wait outside.
-Jeez, I don&#39;t think I can ever overcome soybeans.
-
-With Mao
-
-    Location: Cafe
-
-
-Mm. This coffee is delicious.
-
-Hm… There aren’t any seats left. I guess it can’t be helped… I’ll check another store.
-
-Isara…? I didn’t expect to meet you in a place like this.
-The seat in front of me is empty, so why don&#39;t you sit down?
-
-Oh, vice president? ! Um, is that okay? It&#39;s not like I&#39;m meeting someone.
-
-I&#39;m alone, so it’s fine. I’m ordering a refill of coffee, but what about you, Isara?
-
-Well, it&#39;s the same for me... Um, do you come to this store often?
-
-Not really. I only come every once in a while whenever I feel like drinking coffee.
-Well, usually I have Japanese tea, though... What? Even if you look at me like that, I won&#39;t let you have my chiffon cake.
-
-A-Ah, it’s not that– Er… There&#39;s just something unusual to me about the vice president having cake.
-
-Hmph, even I eat something like this once in a while. Putting that aside, it seems that what I asked for has arrived.
-It&#39;s normal for the student council to be busy, so it&#39;s important to take breaks.
-It’s been a while since we’ve seen each other, so it&#39;d be nice to take our time catching up over coffee.
-
-With Yuzuru
-
-    Location: Archery Hall
-
-
-I’m coming in.
-
-Ah, Hasumi-sama. Are you participating in the archery club&#39;s activities today?
-
-Yes. I finished my student council work early, so I thought I’d show up for once.
-Judging from appearances, it’s just you Fushimi. Were you practicing alone?
-
-No. I was simply cleaning.
-
-Ahh, I’m grateful that you do this without me having to ask.
-It’s thanks to you that the archery range is kept tidy, Fushimi. You have my thanks.
-
-There’s no need to thank me. I&#39;m a member of the archery club, and cleaning is my hobby.
-Hasumi-sama, the only thing I have left to do is clean the floor… Could you please wait in the changing room until it&#39;s finished?
-However, I&#39;d feel terrible to keep you waiting, so I&#39;ll prepare something for you to drink afterwards.
-
-Hey, I’m not a customer. We’re both members of the archery club, so let me help with the cleaning, too.
-
-But I cannot allow Vice President-sama himself to do such a thing．
-
-I told you to call me by my last name during club activities. I’m also a member of the archery club, so we’ll do the cleaning together.
-Besides, the sooner we do it, the sooner it will be over. Let&#39;s put in some elbow grease every now and then.
-
-With Kaoru
-
-    Location: Rooftop
-
-
-Hakaze, you&#39;ve come at the right time. I have something to talk to you about．
-
-Mm, well I don&#39;t, so cut me a break please~ Your lectures are too long, Hasumi-kun, so I don’t really care for them.
-
-Hmph, it&#39;s your own fault for doing things that need lecturing.
-Hakaze, you’ve been leaving your surfboard here without permission, haven’t you? Take it home immediately.
-
-Well, it&#39;s the perfect place for air-drying it~ It’s not like it’s bothering anyone if I hang it out here, so it&#39;s fine, right?
-
-It’s not fine. We’ve been telling students not to store personal items on campus without permission.
-
-Yeah, yeah. You’re not very accommodating, are you Megane-kun~?
-
-Who are you calling &quot;Megane-kun&quot;? If you really want to store it on the roof, take the appropriate steps…
-
-Look, let’s put that aside, have you seen Transfer student-chan, Hasumi-kun?
-
-The transfer student? No, I haven&#39;t. Did you need something from her?
-
-Yeah, kinda~ But if she isn&#39;t here, there&#39;s no point sticking around the rooftop anymore. I&#39;ll be going. Bye bye~
-
-Wait, Hakaze, this conversation isn&#39;t over!
-Hey, don’t ignore me! Listen to people when they’re talking to you!1
-
-With Madara
-
-    Location: Student Council Room
-
-
-……
-
-Excuse meeee~!
-
-Uwaa, you startled me?! Hey, Mikejima! Knock before you enter a room!
-
-Hahaha, you sound a liiittle like Shu-san.
-Aaanyways, your smartphone slipped out of your hand Keito-san.
-I grabbed it right before it hit the floor so I don’t think it broke, but… Please check just to be sure!
-
-…… Ah, it’s fine.
-Since you picked it up for me, I should at least show my gratitude. Thank you, Mikejima.
-
-You don’t need to thank meee. Aaanyway, I caught a glimpse of your screen when I picked it up. You read books on your phone, huh, Keito-san?
-
-I do so every once in a while, yes. Hardcovers are too heavy to carry around, so I just read them as e-books sometimes, that’s all.
-More importantly, you came to the student council room for business, right Mikejima?
-What did you need? It’s just me right now, but I can handle almost anything you need on my own.
-
-Well, here. I created a live proposal, so I was hoping you would check to see if it’s good enough!
-
-Hmm… Do you mind if it takes a little while? I want to review it properly.
-
-No problem at aaall~ While I&#39;m waiting, I&#39;d like to read the book you were reading earlier, Keito-san. Could you tell me the title of it?
-From the sentence I read earlier, it seemed interesting. Consider me intrigued.
-
-Ah, if you like, I don’t mind if you read it on my phone.
-It’ll have to be later, but when I get home I can grab my paperback and lend it to you.
-I doubt you’re the type to hold back, but let me know what you think about it.
-
-
-  
-  
-  
-  
-↑ Comic World (which takes place in summer) reveals that Keito ends up doing the paperwork for Kaoru himself.]]></content>
-  </entry>
-  <entry>
-    <title>2024 Idol Hospitality Campaign | AKATSUKI &amp; RYUSEITAI Oshi Room</title>
-    <url>/translation//oshi_room_2024/</url>
-    <content><![CDATA[
-
-
-
-$(document).ready(function() {
- var $container = $(".grid"); // the container with all the elements to filter inside
- var filters = {}; //should be outside the scope of the filtering function
- /* --- read the documentation on isotope.metafizzy.co for more options --- */
- var $grid = $container.isotope({
-   oshiitemSelector: ".oshiitem", // the elements to filter
-   percentPosition: true // put true if you use percentage widths, otherwise put false
- });
- $(".option-set a").click(function(e) {
-   var $this = $(this); // cache the clicked link
-   var filterAttr = "data-filter-value";
-   var filterValue = $this.attr(filterAttr); // cache the filter
-   var $optionSet = $this.parents(".option-set"); // cache the parent element
-   var group = $optionSet.attr("data-filter-group"); // cache the parent filter group
-   var filterGroup = filters[group];
-   if (!filterGroup) {
-     filterGroup = filters[group] = [];
-   }
-   var $selectAll = $optionSet.find('a['+filterAttr+'=""]'); // the 'select all' button in the current group
-   var activeClass = "selected", // the class for active links
-     exclClass = "exclusive"; // the class for exclusive groups
- comboFiltering($this,filters,filterAttr,filterValue,$optionSet,group,$selectAll,activeClass,exclClass);
-   var comboFilter = getComboFilter(filters);
-   $grid.isotope({
-     filter: comboFilter
-   });
-   $this.toggleClass(activeClass);
-   e.preventDefault();
- });
-});
-
-
 
  
-    
-        
-            
-                
-                    Characters
-                
-                
-                    
-                    
-                    
-                    
-                    
-                    
-					
-                    
-                
-            
-            
-                
-                    Writer
-                
-                
-                    Akira
-                
-            
-            
-                
-                    Translation
-                
-                
-                    citrinesea, 310mc
-                
-            
-            
-                
-                   Proofreading
-                
-                
-                    310mc, ryuseipuka
-                
-            
-        
-    
+$(document).ready(function() {
+    $('.preview-wrapper').remove();
 
-In this campaign, you get to narrow down your favorite idols to a singular "oshi": your favorite. The following translation has: the keywords and filters used for the idol selection screen, Q&A responses and charts, and the phone calls you receive after choosing your 3 top idols. Additionally, the "Surging Wave Invitation Campaign" classfications are added to the filter (watch the videos here).
-AKATSUKI translated by citrinesea, RYUSEITAI translated by 310mc
- Profile Filters
+Prologue
 
+    Season: Winter
 
-   
-     Charm
-     All
-     Cute
-     Cool
-     Intellectual
-     Lively
-     Muscular
-     Neat and Tidy
-     A Little Messy
-   
-   
-     Details
-     All
-     Younger Brother
-     Older Brother
-     Only Child
-     Certified Driver
-     Athletic Club Member
-     Culture Club Member
-   
-   
-     "My Kind of Guy" Ads
-     All
-     Cute and Healing
-     Cheerful
-     Reliable
-     Intelligent
-     Musclebro
-     My Pace
-     Cool
-   
 
+    Location: Garden Terrace
 
 
+Whew… To have a good cup of tea while looking at beautiful flowers in full bloom... It truly is the highest luxury.
+It&#39;s so rare to have such sunny, good weather on a winter day like this. I feel like I&#39;m in good shape.
+Hehe, I can&#39;t help but want to sing……
+(Cough, cough)
 
-  
+Eichi.... Why not enjoy the tea in moderation and go inside?
+Yumenosaki Academy is built on a hill facing the ocean. Being exposed to the sea breeze must be harsh on your body.
+Can you stand? If you can&#39;t, I&#39;ll give you a ride on my shoulders! Come now, please don&#39;t hesitate~☆
 
+I wish you’d stop treating me like a child. I mean, I&#39;m the same height as you. If you carry me on your shoulders, won&#39;t you collapse?
 
+ That might be so. If this were Himegimi, I could easily cuddle him in my arms, but carrying Eichi would likely be too difficult!
+Well, clowns make the impossible possible. There&#39;s nothing I can&#39;t do...☆
 
+I think “clowns” are meant to entertain people. Although in your case, Wataru, I think you’re more of a &quot;magician&quot; than a clown.
 
-  
+My selling point is my versatility! Please refer to me as both &quot;clown&quot; and &quot;magician”...♪
 
+Good grief, I never get bored when I talk to you, Wataru. It’s like having the fun of an amusement park in the palm of your hand~♪
 
+ Oh? Have you ever been to an amusement park, Eichi? Fufufu, they’re like a wonderland...☆
+No matter how old they are, adults can forget time and have fun like the children they used to be. That is what makes them a wonderland.
 
+Oh? I think you and amusement parks are a perfect match, actually. Isn&#39;t it easy to entertain children with your jack-of-all-trades talent?
 
-  
+ Fufufu. You say delightful things, don’t you...☆
+Sometimes strict, sometimes sweet. I can only sing my praises of your ability to juggle the carrot and stick so adeptly!
+Perhaps that’s why I can&#39;t leave His Majesty the Emperor’s side.
+Could it be that you even had the skills of a beast-tamer on hand in order to keep me in one place, Eichi?
 
+ Were you a beast? A clown, a magician, and a beast on top of that. I’m impressed.
+… (Cough, cough)
 
+ Oops, forgive me. I had so much fun chatting with you that your health slipped my mind.
+Come, Eichi. Please put an end to your happy dream and come back to reality...☆
 
+ I’d rather you don’t treat me like I’m sick, but… (cough, cough)... I really haven&#39;t been able to stop coughing for a while now.
+I&#39;m going to go inside and warm up.
+…………
 
-  
+What’s wrong, Eichi?
 
+Mm, that person over there is Anzu-chan. She doesn’t seem to be feeling well. Maybe something happened?
 
+Fufufu. Even though you’re the Emperor, you&#39;re still human. Or are you sweet on Anzu-san because she’s close to you?
 
+ She did break down this school and rebuild it, after all. Well, I can&#39;t say it&#39;s a complete job, but she’s still coming along well.
+Is it that strange that such a presence weighs on my mind?
 
-  
+ No. Anzu-san is also the person who made love bloom in the unfeeling, dull Hokuto-kun.
+Even if it’s not to the extent as His Majesty the Emperor, Anzu-san intrigues me too…♪
 
+ Anzu-chan’s also liked by an unexpected person now, hm? Is that another one of her talents?
+In any case, we don&#39;t have the option of just leaving it be. Anzu-chan, would you like to come over here and have some tea with us?
+…Hmm, I guess she didn&#39;t hear me. At this rate, she’ll just keep on her path.
 
+In that case, I&#39;ll stop her in her tracks! Just watch! Un, deux, trois...☆
 
+My, what a clever idea to put roses out on the path to stop her. It’s because you can produce that many roses in an instant that I can’t help but think you can even use magic~♪
 
-  
+It’s the highest honor to receive such praise! Come, Anzu-san. Can you see me? You do now, good!
+Would you like some nice, warm tea? It&#39;s a hot drink that will fill you up and stave away the cold. … You bought tea from a vending machine?
+But the weather is so cold, it sinks into your bones. There&#39;d be nothing worse to have than cold tea.
+We have hot tea and scones laid out here~♪
+Oh? The scones got a reaction out of you. Anzu-san, do you like clotted cream?
+If so, let&#39;s add cream! Do you like jam? Then let’s add some jam, too!
+Fufufu. It&#39;ll be a little tea party in no time! Come now, eat up~☆
 
+ Oh dear, my job was taken away from me. Well, the tea that Wataru brews is quite delicious, so it&#39;s okay.
+Whew... It&#39;s so tasty it envelops all your senses. I’d like him to join the “Tea Club” with talent like that.
 
+ Though I’m known to be versatile, I can&#39;t split myself to be in many places at once. Although, I suppose it&#39;s not impossible if you master it.
+If it came down to it, I’d just have to set up a body double...☆
 
+ I can never tell how serious you are. Oh, I&#39;m sorry, Anzu-chan.
+Even though I forced you to stop, it’s just me and Wataru speaking. That must be dull.
+It looked like you were troubled about something, so I stopped you to speak with you.
+Heheh, are you holding back, by any chance? I heard that you asked Kiryu-kun from AKATSUKI to give you pointers on how to make costumes.
+I’m not saying to treat me like I’m Kiryu-kun, but I&#39;d be happy if you could open your heart to me a little, as well.
+Thank you, Anzu-chan. Well then, could you tell me right away...?
 
-  
+Opera Chapter 1
 
+    Season: Winter
 
 
+    Location: Garden Terrace
 
-  
 
 
-
-Interviews
- Where would you go on a first date?
- A manga museum. I&#39;d like to show you my favorite works, but if we can&#39;t read them all in one day, we can come back another time.
-
- How about window-shoppin’? We won&#39;t run outta things to talk about when we’re lookin’ at all the different shops and goods. We can find out each other’s taste in fashion and what sorta trends are hot, too.
-
- What about a “cat ka-fay”? Cats look so adorable, just seeing them is sure to make the two of us smile...~♪
-
- I’d like to go to a theme park! ‘Cuz there’s all sortsa things we could do there together, like going on a buncha rides, buying souvenirs, and so much more~♪
-
- I think it’d be fun anywhere, as long as I’m with the person I love, but… For me, it’d be even more fun if we’re at a place that has yuruchara.
-
- I would love an opportunity to lead the way around a ninja village! I want to show you all there is to know about my favorite thing! Be it by witnessing ninjutsu, having a first-hand experience with it, or anything else of the like~♪
-
- A date means going to the amusement park! There’s roller coasters, the ferris wheel, and most importantly, hero shows! The day would pass by in a flash! ☆
-
- on warm days, i would like to have fun at the [ocean]~ and in the colder seasons, we can visit the [aquarium]...♪
- What was the last message exchange you had with someone in your unit?
- I contacted Kiryu and Kanzaki about our work schedules, but neither of them responded. Well, that isn’t unusual, though.
-
- I wanted to hear what their plans were for our new song, so I hit ‘em up. After that, we ended up meetin&#39; up and talkin&#39; face-to-face.
-
- I hadn&#39;t realized I&#39;d sent an incomprehensible string of characters, so I contacted my seniors to apologize. Handling a &quot;sumaho&quot; is difficult…
-
- I messaged everyone ‘bout when we’ll have our next practice session together! Midori-kun’s the only one who hasn’t responded yet, so I’m just gonna go and ask him directly!
-
- My parents gave me lots of vegetables, so I asked everyone in my unit if they’d like some before I offered them to anyone else. I’ll carry some with me later.
-
- Tetora-kun sent me our schedule for the practice session, so I replied to that! I’m in charge of booking us a practice room~♪
-
- I got my hands on some ninja-themed sentai merchandise, so I couldn’t help but message Sengoku about it. It made me happy to get a text praising how cool it looks! ☆
-
- i messaged chiaki that i am at the [ocean]. he gets [worried] when i do not tell him [where] i am.
- Why are you so cool?
- It&#39;s because of the support and encouragement around me. My friends and allies are the reason I can stand on stage and strive for greater heights.
-
- I guess it&#39;s ‘cuz AKATSUKI is where I can be with Hasumi ‘n Kanzaki. When I see those two honest guys, it’s like my spine just straightens up on its own.
-
- There&#39;s something about that comment that makes me feel bashful. However, I&#39;m pleased if my daily training has led to that kind of impression.
-
- Maybe it’s ‘cuz everyone’s always supporting me? Also, if you think my constant hard work towards my goal is somethin’ “cool”, then I’m real happy ‘bout that!
-
- I don’t really know how to answer that… But I think that it’s thanks to my parents that I was born with this face, so I’ll express my gratitude to them later…
-
- I-I’m cool? It surprises me to hear that, but I’d certainly be glad if you consider ninjas to be something cool!
-
- It might be because I dream of becoming a hero. And not just any hero, but a “cool” one…☆
-
- it is because there are so many [cool] people around me~ so maybe i am also more likely to be seen as cool along with them…?
- What are your best subjects?
- You could say that liberal arts as a whole are my strongpoint. I believe I&#39;ve not only excelled in Japanese language and history, but also in civics.
-
- I&#39;m good at sewin’ and cookin’, so home economics is my forte. I usually suck at studying the classic way... especially math; it hurts my head.
-
- I enjoy classical literature and Japanese history. On the contrary, I am not as good at English and world history. While I improve on my current abilities, I want to overcome my weaknesses too.
-
- I’m confident with my practical classes, like P.E. and home economics~♪ I wanna get better at theory-based subjects too, but it’s pretty difficult for me…
-
- Math’s my best subject, or more like, it’s the only thing I can do…? I’m not at all good with other subjects, so I think I’m pretty compatible with it.
-
- I’ve got a bit of confidence when it comes to Japanese history! I studied a whole lot to make myself well-versed with the era of ninjas~♪
-
- My best subjects are the liberal arts, like Japanese literature and language! And my weakest subject is math. I would always study until late at night before a test for that class.
-
- [history] and [biology] might be my best subjects? well, i say [biology], but i actually mean [marine] biology...♪
- What’s the first thing you do when you wake up in the morning?
- I try to set aside the time for meditation. Not only does it improve my ability to concentrate and relax, but it seems to have a positive effect on creativity too.
-
- A while ago, I fell asleep with the light on in my room. Guess that’s why the first thing I do when I get up is to check if they’re still on.
-
- I prepare breakfast. Now that I have a new kitchen knife, I look forward to cooking with it every day~♪
-
- I heard it was good for your health if you drink a glass of water in the morning, so I do that. After that, I go out for my morning training routine.
-
- I play a yuruchara game on my phone. That’s the best way to spend time whenever you wanna lie in bed for a little longer, yeah?
-
- I try to do exercises that help you grow taller. I hope it works out, even if I only grow a tiny bit more~
-
- I begin my day with a fresh start by doing radio exercises!1 I get to move every muscle in my body in an efficient manner, and it also feels really good to refresh my mind and body first thing in the morning!
-
- i have new [fishies] in my room’s [water tanks], so i [check] how they are doing when i [greet] them~♪
-Oshi Calls
- Keito Hasumi
-
- “This is Hasumi Keito from AKATSUKI. To put it bluntly, I’m wondering if you’ll choose me as your “oshi”.”
-“Er, I’m sorry if I caught you off guard. If I hope to be chosen, I should probably talk more about my charm in my own words. Well then…”
-“As AKATSUKI’s leader, I build up experience as an idol day by day. I work hard to make sure AKATSUKI evolves until everyone knows who we are as a unit.”
-“Also…… Well, it’d be a long story if I were to go on. I’ll strive to give it my all, and let my work speak for itself. Keep your eyes on me, and see for yourself if I’m worthy of being your “oshi”.”
-
- Kuro Kiryu
-
- “Yo, I’m Kiryu Kuro. I work as part of AKATSUKI.”
-“I&#39;m not really used to sellin’ myself, but this is a great opportunity. I gotta make sure you get to know a li’l bit about me.”
-“The thing I&#39;m good at is sewin’. I make costumes for AKATSUKI, but I also stitch up outfits for other people if they request it. So, well, guess you could say I&#39;m good with my hands.”
-“I dunno if if I did a good job showin’ off my good points…… but if you choose to support me, I&#39;ll repay it in full. If it’s fine with you, come along with me.”
-
- Souma Kanzaki
-
- “Ohhh, it connected~♪ I presume that you must be the “aidoru fan”. I am Kanzaki Souma, It’s a pleasure to meet you!”
-“I am an “aidoru” who is a member of the “yunitto” AKATSUKI. As the descendant of a samurai clan, I’ve a sword on one side and a mindfulness of “tii-pii-ooh”2 on the other!”
-“...... To tell you the truth, I’m not sure I understand what being someone’s “oshi” really entails yet. However, I imagine it’s similar to a samurai’s pledge of devotion to their lord.”
-“I’ll show you that I’m a splendid “aidoru” worthy of your support. I hope that you will cheer for me….~♪”
-
- Tetora Nagumo
-
- “Ossu, I’m Nagumo Tetora! I’m in STARMAKER PRODUCTION’s RYUSEITAI!”
-&quot;My hobby is doing workouts like weight-training, and my specialty is cooking the manliest food over an open flame. I’m always in the thick of it, working hard and growing in order to become a man among men~♪&quot;
-“No matter what hardship knocks me down, I’ll show you that I can stand right back up and overcome it all. That’s how I wanna move forward as an idol too, step by step!”
-“I’ll definitely become an idol so great, you’ll be glad that you chose me, so… I hope that you can support me…!”
-
- Midori Takamine
-
- “I’m Takamine Midori from RYUSEITAI. Umm, I’m not too sure what to talk about here, but I’ll try…”
-“My family runs a greengrocer business, and I help them out often. Because of that, I like vegetables quite a bit… Ah, but the thing I love most is yuruchara~♪”
-“On the other hand, I have a lot of things I’m not a fan of… Ah, but maybe I shouldn’t mention those right now. I’m sorry, I always get negative so easily…”
-“I haven’t shown much appeal at all, but I’ll do as best as I can in my own way, so… If it’s alright, I’d be happy to have your support…♪”
-
- Shinobu Sengoku
-
- “I’m Sengoku Shinobu, a member of RYUSEITAI! I’m a ‘ninja’, so I devote myself to training and discipline day after day.”
-“It’s difficult to explain in a few words why I chose to be a ninja, but… From a young age, I have always admired the ninja’s way of life, and so I aspired to become one myself~♪”
-“Ninjas may be ones who conceal themselves, but I’m not simply a ninja — I’m an idol as well! So I always put everything I have acquired in my ninja training to good use, even on stage!”
-“It would make me happy if you watched my acrobatic performances, and chose me as your ‘oshi’~♪”
-
- Chiaki Morisawa
-
- “The hero of justice, Morisawa Chiaki—! Has just made his arrival! …Mhm, I got that pose down perfectly! ☆”
-“Alongside my comrades in RYUSEITAI, I work hard in my activities every day, both as a hero and as an idol!”
-“I want to make everyone smile, and that feeling is stronger and more passionate than anyone else’s. I strive to always keep it that way. And the source of that burning passion is none other than the encouraging cheers of our fans!”
-“That’s why I’d like you to send me your support by calling for my name as loud as you can! I’m counting on you!”
-
- Kanata Shinkai
-
- “hello~♪ i am shinkai kanata from ryuseitai.”
-“i love the ocean, so i often take walks on the [beach] and [bathe] in [water]. i also love [fishies]~♪”
-
-”to give your life a plentiful amount of [replenishment] as well, i will deliver many [songs] to you.”
-
-“so i would love it if you would cheer for me. puka, puka…♪”
-
-
-  
-  
-  
-  
-↑ Radio calisthenics (ラジオ体操 lit., &quot;radio exercises&quot;) are warm-up exercises performed to music and guidance from radio broadcasts.↑ This is TPO (time, place, and occasion): there is a time and place for everything. For Souma, that's about being mindful of social expectations before he pulls out his sword. Adonis explains it to him in Resurrection Sunday]]></content>
+]]></content>
   </entry>
   <entry>
     <title>Onigashima</title>
@@ -1739,492 +1750,316 @@ Translation Notes
 ↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ Tetora refers to Kuro as 大将 (taishou, lit. large general ), or boss.↑ More about uchikomi and kumite here.↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma an old-timey feel.↑ AKATSUKI's Chocolat Fes story is Decorate. If you're curious about RYUSEITAI's it's Hot and Elegant Chocolat Fes.↑ Onigashima hinges around the phrase『お礼参り』する (lit. pay one's respects at a shrine). Colliqually, this refers to someone who's going to retaliate against someone else (i.e., someone who hasn't paid a loan). Souma thinks Tetora is using its original meaning.↑ In Japanese, words from other languages (such as English) are typically rendered in katakana. However, when Souma uses katakana words, they are all written in hiragana instead, likely to emphasize how he struggles with foreign words. These words are kept as written in hiragana, and put in &quot;quotes&quot;.↑ From the story Four Beasts of Fist Fighting. Keito's playing coy here because he was actually the one to divert attention away from the Dragon King Competition.↑ Kuro often refers to Keito as 旦那 (danna, lit. master ), or &quot;boss&quot;. He'll also use Hasumi-no-danna.↑ Statues of the Bodhisattva Jizo often dot along trails and sit innocuously, looking over wandering travelers.↑ Tetora is saying 止めて stay with me (stop, don't go) but Kuro thinks he's saying 泊めて stay (at my place) because they're both pronounced とまる.↑ Based on folklore, giving someone one thousand origami cranes is meant to wish them well or wish them long health.↑ This happened in The Wolf and Red Riding Hood with Kuro, Souma, Nazuna and Shinobu.↑ The story of Momotaro follows a boy who goes to Onigashima (lit. Ogre Island) to fight the ogres that live there. On the way, he befriends a talking dog, monkey and pheasant, who agree to help him in his quest.↑ If you wanna see Kuro's acting chops, read Tough Guy where he practices with Chiaki, Tetora and Midori.]]></content>
   </entry>
   <entry>
-    <title>Opera</title>
-    <url>/translation//opera/</url>
+    <title>2024 Idol Hospitality Campaign | AKATSUKI &amp; RYUSEITAI Oshi Room</title>
+    <url>/translation//oshi_room_2024/</url>
     <content><![CDATA[
 
-    .preview-wrapper { /* in case jquery doesn't work */
-        display: none;
-    }
-    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */
-        .post-block {
-            padding: 5px 10px 8px !important;
-        }
-    }
 
 
+$(document).ready(function() {
+ var $container = $(".grid"); // the container with all the elements to filter inside
+ var filters = {}; //should be outside the scope of the filtering function
+ /* --- read the documentation on isotope.metafizzy.co for more options --- */
+ var $grid = $container.isotope({
+   oshiitemSelector: ".oshiitem", // the elements to filter
+   percentPosition: true // put true if you use percentage widths, otherwise put false
+ });
+ $(".option-set a").click(function(e) {
+   var $this = $(this); // cache the clicked link
+   var filterAttr = "data-filter-value";
+   var filterValue = $this.attr(filterAttr); // cache the filter
+   var $optionSet = $this.parents(".option-set"); // cache the parent element
+   var group = $optionSet.attr("data-filter-group"); // cache the parent filter group
+   var filterGroup = filters[group];
+   if (!filterGroup) {
+     filterGroup = filters[group] = [];
+   }
+   var $selectAll = $optionSet.find('a['+filterAttr+'=""]'); // the 'select all' button in the current group
+   var activeClass = "selected", // the class for active links
+     exclClass = "exclusive"; // the class for exclusive groups
+ comboFiltering($this,filters,filterAttr,filterValue,$optionSet,group,$selectAll,activeClass,exclClass);
+   var comboFilter = getComboFilter(filters);
+   $grid.isotope({
+     filter: comboFilter
+   });
+   $this.toggleClass(activeClass);
+   e.preventDefault();
+ });
+});
 
-    
-        
-        
-            
-                
-            
-            
-                Opera
-                歌劇
-                
-                    Start Reading
-                
-            
-            
-                
-                    AKATSUKI is putting on an opera. Little do they know, several other idols are eager to jump in and participate too! It's made Keito start to feel anxious already...
-                
-                
-                    
-                        
-                            Season
-                        
-                        
-                            Winter
-                        
-                    
-                    
-                        
-                            Chapters
-                        
-                        
-                            8
-                        
-                    
-                    
-                        
-                            Writer
-                        
-                        
-                            Yuuki Yoshino
-                        
-                    
-                    
-                        
-                            Characters
-                        
-                        
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        
-                    
-                    
-                        
-                            Translators
-                        
-                        
-                            citrinesea
-                        
-                    
-                    
-                        
-                            Proofreaders
-                        
-                        
-                            310mc
-                        
-                    
-                
-                
-                    
-                        Extra Information
-                    
-                    
-                        
-                            
-                                Event
-                            
-                            
-                                Clash of Arms! Opera of Moonlight Romance
-                            
-                        
-                        
-                            
-                                Event Duration
-                            
-                            
-                                 1/15/2016 (15:00 JST)-1/25/2016 (22:00 JST)
-                            
-                        
-                    
-                
-                
-                    
-                        Translator's Comments
-                    
-                    
-                        It's the way Chiaki volunteered to help and only gets a few lines during the actual opera. Kengeki no Mai is associated with this story.
-                    
-                
-                
-                    
-                        CG Gallery
-                    
-                    
-                        
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (1)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (4)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (1)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (5)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (5)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                        
-                    
-                
-                
-                    
-                        Associated Cards
-                    
-                    
-                        
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Island Where Ogres Dwell] Kuro Kiryu
-                                    [鬼がいる島] 鬼龍 紅郎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Wandering Tsujigiri] Leo Tsukinaga
-                                    ［流浪の辻斬り］月永 レオ
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Wandering Tsujigiri] Tetora Nagumo
-                                    ［流浪の辻斬り］月永 レオ
-                                    
-                                        
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Keito Hasumi
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Souma Kanzaki
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Chiaki Morisawa
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Wataru Hibiki
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Eichi Tenshuoin
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                        
-                    
-                
-            
-            
-                
-                    
-                        
-                            Chapters
-                            Prologue
-                        
-                    
-                    
-                        
-                            Opera
-                            1
-                            2
-                            3
-                            4
-                            5
-                            6
-                        
-                    
-                    
-                        
-                            Epilogue
-                        
-                                        
-                
-            
-        
-    
+
 
  
-$(document).ready(function() {
-    $('.preview-wrapper').remove();
+    
+        
+            
+                
+                    Characters
+                
+                
+                    
+                    
+                    
+                    
+                    
+                    
+					
+                    
+                
+            
+            
+                
+                    Writer
+                
+                
+                    Akira
+                
+            
+            
+                
+                    Translation
+                
+                
+                    citrinesea, 310mc
+                
+            
+            
+                
+                   Proofreading
+                
+                
+                    310mc, ryuseipuka
+                
+            
+        
+    
 
-Prologue
-
-    Season: Winter
-
-
-    Location: Dojo
+In this campaign, you get to narrow down your favorite idols to a singular "oshi": your favorite. The following translation has: the keywords and filters used for the idol selection screen, Q&A responses and charts, and the phone calls you receive after choosing your 3 top idols. Additionally, the "Surging Wave Invitation Campaign" classfications are added to the filter (watch the videos here).
+AKATSUKI translated by citrinesea, RYUSEITAI translated by 310mc
+ Profile Filters
 
 
-]]></content>
+   
+     Charm
+     All
+     Cute
+     Cool
+     Intellectual
+     Lively
+     Muscular
+     Neat and Tidy
+     A Little Messy
+   
+   
+     Details
+     All
+     Younger Brother
+     Older Brother
+     Only Child
+     Certified Driver
+     Athletic Club Member
+     Culture Club Member
+   
+   
+     "My Kind of Guy" Ads
+     All
+     Cute and Healing
+     Cheerful
+     Reliable
+     Intelligent
+     Musclebro
+     My Pace
+     Cool
+   
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+Interviews
+ Where would you go on a first date?
+ A manga museum. I&#39;d like to show you my favorite works, but if we can&#39;t read them all in one day, we can come back another time.
+
+ How about window-shoppin’? We won&#39;t run outta things to talk about when we’re lookin’ at all the different shops and goods. We can find out each other’s taste in fashion and what sorta trends are hot, too.
+
+ What about a “cat ka-fay”? Cats look so adorable, just seeing them is sure to make the two of us smile...~♪
+
+ I’d like to go to a theme park! ‘Cuz there’s all sortsa things we could do there together, like going on a buncha rides, buying souvenirs, and so much more~♪
+
+ I think it’d be fun anywhere, as long as I’m with the person I love, but… For me, it’d be even more fun if we’re at a place that has yuruchara.
+
+ I would love an opportunity to lead the way around a ninja village! I want to show you all there is to know about my favorite thing! Be it by witnessing ninjutsu, having a first-hand experience with it, or anything else of the like~♪
+
+ A date means going to the amusement park! There’s roller coasters, the ferris wheel, and most importantly, hero shows! The day would pass by in a flash! ☆
+
+ on warm days, i would like to have fun at the [ocean]~ and in the colder seasons, we can visit the [aquarium]...♪
+ What was the last message exchange you had with someone in your unit?
+ I contacted Kiryu and Kanzaki about our work schedules, but neither of them responded. Well, that isn’t unusual, though.
+
+ I wanted to hear what their plans were for our new song, so I hit ‘em up. After that, we ended up meetin&#39; up and talkin&#39; face-to-face.
+
+ I hadn&#39;t realized I&#39;d sent an incomprehensible string of characters, so I contacted my seniors to apologize. Handling a &quot;sumaho&quot; is difficult…
+
+ I messaged everyone ‘bout when we’ll have our next practice session together! Midori-kun’s the only one who hasn’t responded yet, so I’m just gonna go and ask him directly!
+
+ My parents gave me lots of vegetables, so I asked everyone in my unit if they’d like some before I offered them to anyone else. I’ll carry some with me later.
+
+ Tetora-kun sent me our schedule for the practice session, so I replied to that! I’m in charge of booking us a practice room~♪
+
+ I got my hands on some ninja-themed sentai merchandise, so I couldn’t help but message Sengoku about it. It made me happy to get a text praising how cool it looks! ☆
+
+ i messaged chiaki that i am at the [ocean]. he gets [worried] when i do not tell him [where] i am.
+ Why are you so cool?
+ It&#39;s because of the support and encouragement around me. My friends and allies are the reason I can stand on stage and strive for greater heights.
+
+ I guess it&#39;s ‘cuz AKATSUKI is where I can be with Hasumi ‘n Kanzaki. When I see those two honest guys, it’s like my spine just straightens up on its own.
+
+ There&#39;s something about that comment that makes me feel bashful. However, I&#39;m pleased if my daily training has led to that kind of impression.
+
+ Maybe it’s ‘cuz everyone’s always supporting me? Also, if you think my constant hard work towards my goal is somethin’ “cool”, then I’m real happy ‘bout that!
+
+ I don’t really know how to answer that… But I think that it’s thanks to my parents that I was born with this face, so I’ll express my gratitude to them later…
+
+ I-I’m cool? It surprises me to hear that, but I’d certainly be glad if you consider ninjas to be something cool!
+
+ It might be because I dream of becoming a hero. And not just any hero, but a “cool” one…☆
+
+ it is because there are so many [cool] people around me~ so maybe i am also more likely to be seen as cool along with them…?
+ What are your best subjects?
+ You could say that liberal arts as a whole are my strongpoint. I believe I&#39;ve not only excelled in Japanese language and history, but also in civics.
+
+ I&#39;m good at sewin’ and cookin’, so home economics is my forte. I usually suck at studying the classic way... especially math; it hurts my head.
+
+ I enjoy classical literature and Japanese history. On the contrary, I am not as good at English and world history. While I improve on my current abilities, I want to overcome my weaknesses too.
+
+ I’m confident with my practical classes, like P.E. and home economics~♪ I wanna get better at theory-based subjects too, but it’s pretty difficult for me…
+
+ Math’s my best subject, or more like, it’s the only thing I can do…? I’m not at all good with other subjects, so I think I’m pretty compatible with it.
+
+ I’ve got a bit of confidence when it comes to Japanese history! I studied a whole lot to make myself well-versed with the era of ninjas~♪
+
+ My best subjects are the liberal arts, like Japanese literature and language! And my weakest subject is math. I would always study until late at night before a test for that class.
+
+ [history] and [biology] might be my best subjects? well, i say [biology], but i actually mean [marine] biology...♪
+ What’s the first thing you do when you wake up in the morning?
+ I try to set aside the time for meditation. Not only does it improve my ability to concentrate and relax, but it seems to have a positive effect on creativity too.
+
+ A while ago, I fell asleep with the light on in my room. Guess that’s why the first thing I do when I get up is to check if they’re still on.
+
+ I prepare breakfast. Now that I have a new kitchen knife, I look forward to cooking with it every day~♪
+
+ I heard it was good for your health if you drink a glass of water in the morning, so I do that. After that, I go out for my morning training routine.
+
+ I play a yuruchara game on my phone. That’s the best way to spend time whenever you wanna lie in bed for a little longer, yeah?
+
+ I try to do exercises that help you grow taller. I hope it works out, even if I only grow a tiny bit more~
+
+ I begin my day with a fresh start by doing radio exercises!1 I get to move every muscle in my body in an efficient manner, and it also feels really good to refresh my mind and body first thing in the morning!
+
+ i have new [fishies] in my room’s [water tanks], so i [check] how they are doing when i [greet] them~♪
+Oshi Calls
+ Keito Hasumi
+
+ “This is Hasumi Keito from AKATSUKI. To put it bluntly, I’m wondering if you’ll choose me as your “oshi”.”
+“Er, I’m sorry if I caught you off guard. If I hope to be chosen, I should probably talk more about my charm in my own words. Well then…”
+“As AKATSUKI’s leader, I build up experience as an idol day by day. I work hard to make sure AKATSUKI evolves until everyone knows who we are as a unit.”
+“Also…… Well, it’d be a long story if I were to go on. I’ll strive to give it my all, and let my work speak for itself. Keep your eyes on me, and see for yourself if I’m worthy of being your “oshi”.”
+
+ Kuro Kiryu
+
+ “Yo, I’m Kiryu Kuro. I work as part of AKATSUKI.”
+“I&#39;m not really used to sellin’ myself, but this is a great opportunity. I gotta make sure you get to know a li’l bit about me.”
+“The thing I&#39;m good at is sewin’. I make costumes for AKATSUKI, but I also stitch up outfits for other people if they request it. So, well, guess you could say I&#39;m good with my hands.”
+“I dunno if if I did a good job showin’ off my good points…… but if you choose to support me, I&#39;ll repay it in full. If it’s fine with you, come along with me.”
+
+ Souma Kanzaki
+
+ “Ohhh, it connected~♪ I presume that you must be the “aidoru fan”. I am Kanzaki Souma, It’s a pleasure to meet you!”
+“I am an “aidoru” who is a member of the “yunitto” AKATSUKI. As the descendant of a samurai clan, I’ve a sword on one side and a mindfulness of “tii-pii-ooh”2 on the other!”
+“...... To tell you the truth, I’m not sure I understand what being someone’s “oshi” really entails yet. However, I imagine it’s similar to a samurai’s pledge of devotion to their lord.”
+“I’ll show you that I’m a splendid “aidoru” worthy of your support. I hope that you will cheer for me….~♪”
+
+ Tetora Nagumo
+
+ “Ossu, I’m Nagumo Tetora! I’m in STARMAKER PRODUCTION’s RYUSEITAI!”
+&quot;My hobby is doing workouts like weight-training, and my specialty is cooking the manliest food over an open flame. I’m always in the thick of it, working hard and growing in order to become a man among men~♪&quot;
+“No matter what hardship knocks me down, I’ll show you that I can stand right back up and overcome it all. That’s how I wanna move forward as an idol too, step by step!”
+“I’ll definitely become an idol so great, you’ll be glad that you chose me, so… I hope that you can support me…!”
+
+ Midori Takamine
+
+ “I’m Takamine Midori from RYUSEITAI. Umm, I’m not too sure what to talk about here, but I’ll try…”
+“My family runs a greengrocer business, and I help them out often. Because of that, I like vegetables quite a bit… Ah, but the thing I love most is yuruchara~♪”
+“On the other hand, I have a lot of things I’m not a fan of… Ah, but maybe I shouldn’t mention those right now. I’m sorry, I always get negative so easily…”
+“I haven’t shown much appeal at all, but I’ll do as best as I can in my own way, so… If it’s alright, I’d be happy to have your support…♪”
+
+ Shinobu Sengoku
+
+ “I’m Sengoku Shinobu, a member of RYUSEITAI! I’m a ‘ninja’, so I devote myself to training and discipline day after day.”
+“It’s difficult to explain in a few words why I chose to be a ninja, but… From a young age, I have always admired the ninja’s way of life, and so I aspired to become one myself~♪”
+“Ninjas may be ones who conceal themselves, but I’m not simply a ninja — I’m an idol as well! So I always put everything I have acquired in my ninja training to good use, even on stage!”
+“It would make me happy if you watched my acrobatic performances, and chose me as your ‘oshi’~♪”
+
+ Chiaki Morisawa
+
+ “The hero of justice, Morisawa Chiaki—! Has just made his arrival! …Mhm, I got that pose down perfectly! ☆”
+“Alongside my comrades in RYUSEITAI, I work hard in my activities every day, both as a hero and as an idol!”
+“I want to make everyone smile, and that feeling is stronger and more passionate than anyone else’s. I strive to always keep it that way. And the source of that burning passion is none other than the encouraging cheers of our fans!”
+“That’s why I’d like you to send me your support by calling for my name as loud as you can! I’m counting on you!”
+
+ Kanata Shinkai
+
+ “hello~♪ i am shinkai kanata from ryuseitai.”
+“i love the ocean, so i often take walks on the [beach] and [bathe] in [water]. i also love [fishies]~♪”
+
+”to give your life a plentiful amount of [replenishment] as well, i will deliver many [songs] to you.”
+
+“so i would love it if you would cheer for me. puka, puka…♪”
+
+
+  
+  
+  
+  
+↑ Radio calisthenics (ラジオ体操 lit., &quot;radio exercises&quot;) are warm-up exercises performed to music and guidance from radio broadcasts.↑ This is TPO (time, place, and occasion): there is a time and place for everything. For Souma, that's about being mindful of social expectations before he pulls out his sword. Adonis explains it to him in Resurrection Sunday]]></content>
   </entry>
   <entry>
     <title>Samurais &amp; Ninjas</title>
@@ -2400,5 +2235,261 @@ Ehehe, I had a really fun lunchtime today! I am terribly grateful~♪
   
 Translation Notes
 ↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma and Shinobu an old-timey feel.↑ Very strict regulations on the possession and use of firearms and swords in Japan.↑ ちぇすと is an exclamation. Souma says it a lot when he lunges with his sword.↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ They're using 殿 (dono) by itself here.]]></content>
+  </entry>
+  <entry>
+    <title>9th Anniversary Log-In | Keito and Kanata</title>
+    <url>/translation//9th_anniversary_dialogue/</url>
+    <content><![CDATA[
+ .translationsquare video {
+  /* Make video to at least 100% wide and tall */
+  max-width: 100%; 
+  max-height: 100%; 
+
+  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+  width: auto;
+  height: auto;
+}
+
+
+
+Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
+
+i’m not [spacing out]…? I was puka-pukaing to the sway of all the [penlights]~
+
+  
+  
+  
+  
+]]></content>
+  </entry>
+  <entry>
+    <title>Keito Management Stories</title>
+    <url>/translation//keito_management_stories/</url>
+    <content><![CDATA[
+NOTE: Management stories take place in early !-era spring, so they're a good gauge for relationships pre-development.
+ 
+    
+        
+            
+                
+                    Characters
+                
+                
+					
+                    
+					
+                        
+                    
+					
+                                                           
+                
+            
+            
+                
+                    Writer
+                
+                
+                    Akira
+                
+            
+            
+                
+                    Translation
+                
+                
+                    citrinesea
+                
+            
+            
+                
+                   Proofreading
+                
+                
+                    310mc
+                
+            
+        
+    
+
+
+    Season: Early Spring [!]
+
+With Kuro
+
+    Location: Library
+
+
+Kiryu? It’s rare to see you in a place like this. What are you doing
+
+Oh, danna. You came at a good time. Couldja tell me what this word means?
+
+English reference books..? Were you studying?
+
+ Yeah. Actually, Kanzaki asked me a question about English grammar the other day. It was something I could answer, but…
+Seems like he’s unbelievably bad at English. Did you know about that, danna?
+
+No… He has a serious disposition, so I was under the impression he could study just as diligently.
+Come to think of it, there are times where he struggles with English words we use on a daily basis.
+
+ Right? Seems he can handle other subjects better than average, but English is the one thing he just can&#39;t do.
+Seein’ him like that got me worried, but I&#39;m not that good at studying myself. That’s how I ended up here, reviewin’ it.
+
+I see… I’m starting to get worried, too… I don’t think it’ll affect his grades, but still…
+Okay. I have some reference books and vocabulary flashcards I can recommend, so stay here. I’ll bring them.
+
+Alright, thanks. It&#39;s reassurin&#39; to know you’re willin’ to help us out, danna.
+
+With Tsukasa
+
+    Location: School Store
+
+
+There’s no urgent work today. Now and again, I have lunch at the school store, so I thought I’d come by, but…
+Why is there nothing but soybean bread left?
+The sign says “Now half-off the regular price!&#39;&#39;, but there’s still so much left over… As I figured, it’s not very popular.
+I don&#39;t like soybeans either. It&#39;s not something I’m going to force myself to eat. It&#39;s a pain, but I have no choice but to go to the cafeteria.
+
+Oh, Hasumi-senpai? Hello. The bread in the school store is exquisite. I also come here quite often.
+
+Suou? . . I don&#39;t want to eat soybean bread, even if it’s exquisite.
+From what I see, you seem to have bought a different kind of bread. I can’t believe you managed to buy them in time.
+
+As soon as the bell rang to signal the end of class, I headed straight to the school store.
+The first year’s classrooms are close to the school store, so if you walk quickly, you can buy the popular bread ♪
+Um, Hasumi-senpai. If you don&#39;t like the bread there, do you want to exchange it for the bread I bought?
+
+Is that okay…? It would help. To be honest, it’s not that they’re inedible: I just really don&#39;t like soybeans. I was just thinking about going to the cafeteria instead.
+
+I see, so Hasumi-senpai doesn&#39;t like soybeans. From now on, I will refrain from giving you anything with soybeans in it.
+But why is there so much surplus today? Is it a purchase order Mistake?
+
+Who knows... Suou, I&#39;m starting to feel a little sick, so I&#39;ll wait outside.
+Jeez, I don&#39;t think I can ever overcome soybeans.
+
+With Mao
+
+    Location: Cafe
+
+
+Mm. This coffee is delicious.
+
+Hm… There aren’t any seats left. I guess it can’t be helped… I’ll check another store.
+
+Isara…? I didn’t expect to meet you in a place like this.
+The seat in front of me is empty, so why don&#39;t you sit down?
+
+Oh, vice president? ! Um, is that okay? It&#39;s not like I&#39;m meeting someone.
+
+I&#39;m alone, so it’s fine. I’m ordering a refill of coffee, but what about you, Isara?
+
+Well, it&#39;s the same for me... Um, do you come to this store often?
+
+Not really. I only come every once in a while whenever I feel like drinking coffee.
+Well, usually I have Japanese tea, though... What? Even if you look at me like that, I won&#39;t let you have my chiffon cake.
+
+A-Ah, it’s not that– Er… There&#39;s just something unusual to me about the vice president having cake.
+
+Hmph, even I eat something like this once in a while. Putting that aside, it seems that what I asked for has arrived.
+It&#39;s normal for the student council to be busy, so it&#39;s important to take breaks.
+It’s been a while since we’ve seen each other, so it&#39;d be nice to take our time catching up over coffee.
+
+With Yuzuru
+
+    Location: Archery Hall
+
+
+I’m coming in.
+
+Ah, Hasumi-sama. Are you participating in the archery club&#39;s activities today?
+
+Yes. I finished my student council work early, so I thought I’d show up for once.
+Judging from appearances, it’s just you Fushimi. Were you practicing alone?
+
+No. I was simply cleaning.
+
+Ahh, I’m grateful that you do this without me having to ask.
+It’s thanks to you that the archery range is kept tidy, Fushimi. You have my thanks.
+
+There’s no need to thank me. I&#39;m a member of the archery club, and cleaning is my hobby.
+Hasumi-sama, the only thing I have left to do is clean the floor… Could you please wait in the changing room until it&#39;s finished?
+However, I&#39;d feel terrible to keep you waiting, so I&#39;ll prepare something for you to drink afterwards.
+
+Hey, I’m not a customer. We’re both members of the archery club, so let me help with the cleaning, too.
+
+But I cannot allow Vice President-sama himself to do such a thing．
+
+I told you to call me by my last name during club activities. I’m also a member of the archery club, so we’ll do the cleaning together.
+Besides, the sooner we do it, the sooner it will be over. Let&#39;s put in some elbow grease every now and then.
+
+With Kaoru
+
+    Location: Rooftop
+
+
+Hakaze, you&#39;ve come at the right time. I have something to talk to you about．
+
+Mm, well I don&#39;t, so cut me a break please~ Your lectures are too long, Hasumi-kun, so I don’t really care for them.
+
+Hmph, it&#39;s your own fault for doing things that need lecturing.
+Hakaze, you’ve been leaving your surfboard here without permission, haven’t you? Take it home immediately.
+
+Well, it&#39;s the perfect place for air-drying it~ It’s not like it’s bothering anyone if I hang it out here, so it&#39;s fine, right?
+
+It’s not fine. We’ve been telling students not to store personal items on campus without permission.
+
+Yeah, yeah. You’re not very accommodating, are you Megane-kun~?
+
+Who are you calling &quot;Megane-kun&quot;? If you really want to store it on the roof, take the appropriate steps…
+
+Look, let’s put that aside, have you seen Transfer student-chan, Hasumi-kun?
+
+The transfer student? No, I haven&#39;t. Did you need something from her?
+
+Yeah, kinda~ But if she isn&#39;t here, there&#39;s no point sticking around the rooftop anymore. I&#39;ll be going. Bye bye~
+
+Wait, Hakaze, this conversation isn&#39;t over!
+Hey, don’t ignore me! Listen to people when they’re talking to you!1
+
+With Madara
+
+    Location: Student Council Room
+
+
+……
+
+Excuse meeee~!
+
+Uwaa, you startled me?! Hey, Mikejima! Knock before you enter a room!
+
+Hahaha, you sound a liiittle like Shu-san.
+Aaanyways, your smartphone slipped out of your hand Keito-san.
+I grabbed it right before it hit the floor so I don’t think it broke, but… Please check just to be sure!
+
+…… Ah, it’s fine.
+Since you picked it up for me, I should at least show my gratitude. Thank you, Mikejima.
+
+You don’t need to thank meee. Aaanyway, I caught a glimpse of your screen when I picked it up. You read books on your phone, huh, Keito-san?
+
+I do so every once in a while, yes. Hardcovers are too heavy to carry around, so I just read them as e-books sometimes, that’s all.
+More importantly, you came to the student council room for business, right Mikejima?
+What did you need? It’s just me right now, but I can handle almost anything you need on my own.
+
+Well, here. I created a live proposal, so I was hoping you would check to see if it’s good enough!
+
+Hmm… Do you mind if it takes a little while? I want to review it properly.
+
+No problem at aaall~ While I&#39;m waiting, I&#39;d like to read the book you were reading earlier, Keito-san. Could you tell me the title of it?
+From the sentence I read earlier, it seemed interesting. Consider me intrigued.
+
+Ah, if you like, I don’t mind if you read it on my phone.
+It’ll have to be later, but when I get home I can grab my paperback and lend it to you.
+I doubt you’re the type to hold back, but let me know what you think about it.
+
+
+  
+  
+  
+  
+↑ Comic World (which takes place in summer) reveals that Keito ends up doing the paperwork for Kaoru himself.]]></content>
   </entry>
 </search>
