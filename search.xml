@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>9th Anniversary Log-In | Keito and Kanata</title>
+    <url>/translation//9th_anniversary_dialogue/</url>
+    <content><![CDATA[ .translationsquare video {
+  /* Make video to at least 100% wide and tall */
+  max-width: 100%; 
+  max-height: 100%; 
+
+  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+  width: auto;
+  height: auto;
+}
+
+
+
+Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
+
+i’m not [spacing out]…? I was puka-pukaing to the sway of all the [penlights]~
+
+  
+  
+  
+  
+]]></content>
+  </entry>
+  <entry>
     <title>Many Minds, One Flower</title>
     <url>/translation//many_minds_one_flower/</url>
     <content><![CDATA[
@@ -388,494 +413,6 @@ I doubt you’re the type to hold back, but let me know what you think about it.
 ↑ Comic World (which takes place in summer) reveals that Keito ends up doing the paperwork for Kaoru himself.]]></content>
   </entry>
   <entry>
-    <title>Opera</title>
-    <url>/translation//opera/</url>
-    <content><![CDATA[
-
-    .preview-wrapper { /* in case jquery doesn't work */
-        display: none;
-    }
-    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */
-        .post-block {
-            padding: 5px 10px 8px !important;
-        }
-    }
-
-
-
-    
-        
-        
-            
-                
-            
-            
-                Opera
-                歌劇
-                
-                    Start Reading
-                
-            
-            
-                
-                    AKATSUKI is putting on an opera. Little do they know, several other idols are eager to jump in and participate too! It's made Keito start to feel anxious already...
-                
-                
-                    
-                        
-                            Season
-                        
-                        
-                            Winter
-                        
-                    
-                    
-                        
-                            Chapters
-                        
-                        
-                            8
-                        
-                    
-                    
-                        
-                            Writer
-                        
-                        
-                            Yuuki Yoshino
-                        
-                    
-                    
-                        
-                            Characters
-                        
-                        
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        
-                    
-                    
-                        
-                            Translators
-                        
-                        
-                            citrinesea
-                        
-                    
-                    
-                        
-                            Proofreaders
-                        
-                        
-                            310mc
-                        
-                    
-                
-                
-                    
-                        Extra Information
-                    
-                    
-                        
-                            
-                                Event
-                            
-                            
-                                Clash of Arms! Opera of Moonlight Romance
-                            
-                        
-                        
-                            
-                                Event Duration
-                            
-                            
-                                 1/15/2016 (15:00 JST)-1/25/2016 (22:00 JST)
-                            
-                        
-                    
-                
-                
-                    
-                        Translator's Comments
-                    
-                    
-                        It's the way Chiaki volunteered to help and only gets a few lines during the actual opera. Kengeki no Mai is associated with this story.
-                    
-                
-                
-                    
-                        CG Gallery
-                    
-                    
-                        
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (1)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (4)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (1)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (5)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (5)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Opera (6)
-                                
-                            
-                        
-                    
-                
-                
-                    
-                        Associated Cards
-                    
-                    
-                        
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Island Where Ogres Dwell] Kuro Kiryu
-                                    [鬼がいる島] 鬼龍 紅郎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Wandering Tsujigiri] Leo Tsukinaga
-                                    ［流浪の辻斬り］月永 レオ
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Wandering Tsujigiri] Tetora Nagumo
-                                    ［流浪の辻斬り］月永 レオ
-                                    
-                                        
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Keito Hasumi
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Souma Kanzaki
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Chiaki Morisawa
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Wataru Hibiki
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                
-                                
-                                    [Respect Towards the Ogre] Eichi Tenshuoin
-                                    [鬼へ敬意] 南雲 鉄虎
-                                    
-                                        
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                            
-                                                TBD
-                                                TBD.
-                                            
-                                        
-                                    
-                                
-                            
-                        
-                    
-                
-            
-            
-                
-                    
-                        
-                            Chapters
-                            Prologue
-                        
-                    
-                    
-                        
-                            Opera
-                            1
-                            2
-                            3
-                            4
-                            5
-                            6
-                        
-                    
-                    
-                        
-                            Epilogue
-                        
-                                        
-                
-            
-        
-    
-
- 
-$(document).ready(function() {
-    $('.preview-wrapper').remove();
-
-Prologue
-
-    Season: Winter
-
-
-    Location: Dojo
-
-
-]]></content>
-  </entry>
-  <entry>
     <title>2024 Idol Hospitality Campaign | AKATSUKI &amp; RYUSEITAI Oshi Room</title>
     <url>/translation//oshi_room_2024/</url>
     <content><![CDATA[
@@ -1186,181 +723,6 @@ Oshi Calls
   
   
 ↑ Radio calisthenics (ラジオ体操 lit., &quot;radio exercises&quot;) are warm-up exercises performed to music and guidance from radio broadcasts.↑ This is TPO (time, place, and occasion): there is a time and place for everything. For Souma, that's about being mindful of social expectations before he pulls out his sword. Adonis explains it to him in Resurrection Sunday]]></content>
-  </entry>
-  <entry>
-    <title>Samurais &amp; Ninjas</title>
-    <url>/translation//samurais_and_ninjas/</url>
-    <content><![CDATA[
- 
-    
-        
-            
-                
-                    Characters
-                
-                
-								
-                
-                
-            
-            
-                
-                    Writer
-                
-                
-                    Akira
-                
-            
-            
-                
-                    Translation
-                
-                
-                    citrinesea
-                
-            
-            
-                
-                   Proofreading
-                
-                
-                    310mc
-                
-            
-        
-    
-
-
-    Season: Spring
-
-
-    Location: Garden Terrace
-
-
- Hello, Transfer Student-dono1. We’ve been seeing a lot of each other at “Gaaden Terasu” as of late, huh? Are you also having lunch?
-Mm, food and health are inextricably linked.
-I want you to eat a lot, get healthy, and produce us idols relentlessly…♪
-As usual, I’m putting on the act as a chef. If you’d like, let me serve you some homemade food.
-Also, I had so much fun chopping up the ingredients that I ended up preparing a lot of them...♪
-Hm, that&#39;s what you intended? Because you want to save food costs? Hm, then there’s no need for my concern. Transfer Student-dono is such a strong woman!
-
-
- Splendid, bravo~♪ If you&#39;re happy with my cooking, I’d like you to eat it to your heart&#39;s content. May it become a source of energy for you!
-Do you mind if I join you? It’s more pleasant to eat with a group~♪ Mm. Excuse me…
-Hold on a moment. This is too much for one person to eat, but not enough for two people. Let’s finish cooking a little bit more.
-Do you have any “reku-ests”? I’m getting tired of always eating seafood. I have some premium meat that Adonis-dono gave me, so maybe I’ll have that for t—…
-Huh? — A scoundrel!
-
-Eyaaa?! Wh-Wh– Why did a table get cut to pieces in front of me?!
-
-
-I-I– I&#39;m definitely not a suspicious person! If you could just spare me my life…?!
-
-Hm, who are you? What do you intend to do by sneaking around on the floor, you dodgy fellow?
-Are you a thief? You lawless cad! For the sake of &quot;Gaaden Terasu&quot;, this Kanzaki Souma will inflict punishment upon you!
-
-W-Wait a second! Why is this person wielding a Japanese sword as if it’s normal? This is a violation of the Firearms and Swords Act2!
-
-Hmm, you are... I believe you are Sengoku from the Ninja Association. You. Are you acting suspicious again?
-Good grief, it’s a complete nuisance. For some reason, people seem to think you’re close friends with me.
-
-Huh, why? I&#39;m the type of ninja who doesn&#39;t have many close friends, though…
-But it’s not that I can&#39;t make friends because I’m shy! Ninjas are like shadows, destined to live by erasing all traces of their very presence...!
-
-Hmm. I’m samurai-like. You’re ninja-like. The public seems to think that samurai and ninja are birds of a feather.
-
-Ehh!? Ninjas and samurai are completely different! But there were some ninjas who became feudal lords, so I guess it depends on the character of the region?
-And um, Kanzaki-dono is more of a “swordsman” than a “samurai”, right?
-
-Well, I&#39;m not interested in the distinction. However, the problem is that you and I are considered to be compatriots.
-Whenever you do something strange, I get frowned upon, too. It’s better to live a more straightforward life, more pure and honest.
-If you live right, instead of crawling around on the floor like that, you&#39;ll be able to face the sun with pride.
-
-
-F-For some reason, I'm being scolded... Uu~? But I can’t relax in bright places, y’know~…?
-… What on earth have you been doing since a while ago? You can eat while sitting on a chair. Ninjas seem like they’re completely unfamiliar with etiquette.
-If you&#39;re hungry, I&#39;ll share some of my food with you.
-
-Yaaay, I&#39;ve graduated from eating by myself~!
-Ah, Transfer Student-dono was here too! I wonder if I&#39;ve interrupted your date...?
-
-We’re simply “kurasumeito”. We just so happened to share a table today. Now that’s enough, it&#39;s time to eat. It&#39;s said that nausea dwells in an empty stomach.
-
-Thank you, thank you...! I was running out of food allowance this month. Honestly, I was in trouble.
-Also, here in Garden Terrace... I was doing a little fly-catching.
-
-
-Well, now that I see it closely, it’s flypaper! You— Don&#39;t show those things while we’re eating! It’s unsanitary, I&#39;ll lose my appetite!
-Are you going to eat it? Do you eat flies? As I thought, I can&#39;t understand ninjas...!
-
-Hey, please don&#39;t draw your sword?! I’m not going to eat them~! These flies are meant to be frog food.
-
-Fr-Frogs? Are you raising them as pets?
-
-They’re more like friends than pets to raise~ Ninjas use dogs, birds, frogs, and the like.
-But dogs bite, and birds nip with their beaks, so frogs are the best ones to get along with.
-However, they&#39;re bigger eaters than they look. The cost of food is ridiculous, so that’s why I catch flies myself, if that makes sense...?
-
-I-I see. That’s why you set foot for “Gaaden Terasu”. Certainly, those types of insects tend to gather in the dining hall.
-
-That’s right~ Oops, found another fly! I&#39;ll capture it~☆
-
-Don&#39;t mess around while you’re eating! Have you no manners!
-
-Forgive me a million times over, but I&#39;m seriously in trouble. I can&#39;t let my frogs go hungry...
-I&#39;m starving because I&#39;m cutting back on my own food expenses. Ninjas and samurai alike cannot fight if they are hungry.
-So please give me your patience— hm hm! There are flies again~☆
-
-Hey, that&#39;s annoying! Besides, flies have compound eyes. They have excellent dynamic vision, so you can&#39;t catch them with movements like that! Watch!
-En garde–!3
-
-Ooh, you caught a fly with chopsticks! That’s amazing...☆
-
-
-Hehe. I don&#39;t try to pretend I’m as skilled as the ancient swordsman Miyamoto Musashi, but... for a well-trained martial artist, a target such as this is a breeze before breakfast. Ha! Take that! And that4!
-
-Wow, that’s amazing! I want you to catch more, and I want you to teach me how to do it, too~♪
-
-Heh, I don&#39;t hate being praised. But my training will be severe, you know.
-
-Bring it on! Enduring all hardships is what makes a ninja—...
-Ow?!
-
-
-Ogh?! Wh-Why are you hitting us, Transfer Student-dono!
-Huh, “Don&#39;t fool around while eating”...? That&#39;s right, this ninja managed to get me carried away!
-
-Is it my fault?!
-But well, I certainly don&#39;t think it would be a good idea to play with flies while we eat! Forgive me, Transfer Student-dono!
-
-Hehe. Sengoku, you also call Transfer Student-dono &quot;Transfer Student-dono&quot;, huh?
-It gives off the impression that we are samurai and ninja who serve the same master, so what say you and I get along better from now on?
-
-I&#39;m so happy! Yaaay, I&#39;ve made a new friend... ♪ Transfer Student-dono brought us together!
-I’m so thankful, I should call you “Lord&quot;5 instead of “Transfer Student-dono”! You are our master, Lord!
-
-Lord, why have you stopped eating? Come come, eat as much as you like～♪
-
-Lord～♪
-
-Lord～☆
-
-
-...Ow?! You hit me again! I suppose you’d rather be called “Princess” instead of “Lord”?
-
-Hmm, a girl&#39;s heart is complicated...
-Sengoku, if you&#39;re having trouble finding food for your frogs, come to the Marine Life Club room later. We may have some food stocked up, so I&#39;ll lend you a little.
-
-Uwaa, that&#39;d save me trouble! But it&#39;s cool to catch flies with chopsticks too. I&#39;d be happy if you could teach me how to do it later~♪
-Ehehe, I had a really fun lunchtime today! I am terribly grateful~♪
-
-
-  
-  
-  
-  
-Translation Notes
-↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma and Shinobu an old-timey feel.↑ Very strict regulations on the possession and use of firearms and swords in Japan.↑ ちぇすと is an exclamation. Souma says it a lot when he lunges with his sword.↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ They're using 殿 (dono) by itself here.]]></content>
   </entry>
   <entry>
     <title>Onigashima</title>
@@ -2375,5 +1737,668 @@ I&#39;d love to show all&#39;a that to the old me. He’d be surprised for sure.
   
 Translation Notes
 ↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ Tetora refers to Kuro as 大将 (taishou, lit. large general ), or boss.↑ More about uchikomi and kumite here.↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma an old-timey feel.↑ AKATSUKI's Chocolat Fes story is Decorate. If you're curious about RYUSEITAI's it's Hot and Elegant Chocolat Fes.↑ Onigashima hinges around the phrase『お礼参り』する (lit. pay one's respects at a shrine). Colliqually, this refers to someone who's going to retaliate against someone else (i.e., someone who hasn't paid a loan). Souma thinks Tetora is using its original meaning.↑ In Japanese, words from other languages (such as English) are typically rendered in katakana. However, when Souma uses katakana words, they are all written in hiragana instead, likely to emphasize how he struggles with foreign words. These words are kept as written in hiragana, and put in &quot;quotes&quot;.↑ From the story Four Beasts of Fist Fighting. Keito's playing coy here because he was actually the one to divert attention away from the Dragon King Competition.↑ Kuro often refers to Keito as 旦那 (danna, lit. master ), or &quot;boss&quot;. He'll also use Hasumi-no-danna.↑ Statues of the Bodhisattva Jizo often dot along trails and sit innocuously, looking over wandering travelers.↑ Tetora is saying 止めて stay with me (stop, don't go) but Kuro thinks he's saying 泊めて stay (at my place) because they're both pronounced とまる.↑ Based on folklore, giving someone one thousand origami cranes is meant to wish them well or wish them long health.↑ This happened in The Wolf and Red Riding Hood with Kuro, Souma, Nazuna and Shinobu.↑ The story of Momotaro follows a boy who goes to Onigashima (lit. Ogre Island) to fight the ogres that live there. On the way, he befriends a talking dog, monkey and pheasant, who agree to help him in his quest.↑ If you wanna see Kuro's acting chops, read Tough Guy where he practices with Chiaki, Tetora and Midori.]]></content>
+  </entry>
+  <entry>
+    <title>Opera</title>
+    <url>/translation//opera/</url>
+    <content><![CDATA[
+
+    .preview-wrapper { /* in case jquery doesn't work */
+        display: none;
+    }
+    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+
+
+
+    
+        
+        
+            
+                
+            
+            
+                Opera
+                歌劇
+                
+                    Start Reading
+                
+            
+            
+                
+                    AKATSUKI is putting on an opera. Little do they know, several other idols are eager to jump in and participate too! It's made Keito start to feel anxious already...
+                
+                
+                    
+                        
+                            Season
+                        
+                        
+                            Winter
+                        
+                    
+                    
+                        
+                            Chapters
+                        
+                        
+                            8
+                        
+                    
+                    
+                        
+                            Writer
+                        
+                        
+                            Yuuki Yoshino
+                        
+                    
+                    
+                        
+                            Characters
+                        
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                            Translators
+                        
+                        
+                            citrinesea
+                        
+                    
+                    
+                        
+                            Proofreaders
+                        
+                        
+                            310mc
+                        
+                    
+                
+                
+                    
+                        Extra Information
+                    
+                    
+                        
+                            
+                                Event
+                            
+                            
+                                Clash of Arms! Opera of Moonlight Romance
+                            
+                        
+                        
+                            
+                                Event Duration
+                            
+                            
+                                 1/15/2016 (15:00 JST)-1/25/2016 (22:00 JST)
+                            
+                        
+                    
+                
+                
+                    
+                        Translator's Comments
+                    
+                    
+                        It's the way Chiaki volunteered to help and only gets a few lines during the actual opera. Kengeki no Mai is associated with this story.
+                    
+                
+                
+                    
+                        CG Gallery
+                    
+                    
+                        
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (1)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (4)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (1)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (5)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (5)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Opera (6)
+                                
+                            
+                        
+                    
+                
+                
+                    
+                        Associated Cards
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Island Where Ogres Dwell] Kuro Kiryu
+                                    [鬼がいる島] 鬼龍 紅郎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Wandering Tsujigiri] Leo Tsukinaga
+                                    ［流浪の辻斬り］月永 レオ
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Wandering Tsujigiri] Tetora Nagumo
+                                    ［流浪の辻斬り］月永 レオ
+                                    
+                                        
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Keito Hasumi
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Souma Kanzaki
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Chiaki Morisawa
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Wataru Hibiki
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    [Respect Towards the Ogre] Eichi Tenshuoin
+                                    [鬼へ敬意] 南雲 鉄虎
+                                    
+                                        
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                            
+                                                TBD
+                                                TBD.
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                    
+                        
+                            Chapters
+                            Prologue
+                        
+                    
+                    
+                        
+                            Opera
+                            1
+                            2
+                            3
+                            4
+                            5
+                            6
+                        
+                    
+                    
+                        
+                            Epilogue
+                        
+                                        
+                
+            
+        
+    
+
+ 
+$(document).ready(function() {
+    $('.preview-wrapper').remove();
+
+Prologue
+
+    Season: Winter
+
+
+    Location: Dojo
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>Samurais &amp; Ninjas</title>
+    <url>/translation//samurais_and_ninjas/</url>
+    <content><![CDATA[
+ 
+    
+        
+            
+                
+                    Characters
+                
+                
+								
+                
+                
+            
+            
+                
+                    Writer
+                
+                
+                    Akira
+                
+            
+            
+                
+                    Translation
+                
+                
+                    citrinesea
+                
+            
+            
+                
+                   Proofreading
+                
+                
+                    310mc
+                
+            
+        
+    
+
+
+    Season: Spring
+
+
+    Location: Garden Terrace
+
+
+ Hello, Transfer Student-dono1. We’ve been seeing a lot of each other at “Gaaden Terasu” as of late, huh? Are you also having lunch?
+Mm, food and health are inextricably linked.
+I want you to eat a lot, get healthy, and produce us idols relentlessly…♪
+As usual, I’m putting on the act as a chef. If you’d like, let me serve you some homemade food.
+Also, I had so much fun chopping up the ingredients that I ended up preparing a lot of them...♪
+Hm, that&#39;s what you intended? Because you want to save food costs? Hm, then there’s no need for my concern. Transfer Student-dono is such a strong woman!
+
+
+ Splendid, bravo~♪ If you&#39;re happy with my cooking, I’d like you to eat it to your heart&#39;s content. May it become a source of energy for you!
+Do you mind if I join you? It’s more pleasant to eat with a group~♪ Mm. Excuse me…
+Hold on a moment. This is too much for one person to eat, but not enough for two people. Let’s finish cooking a little bit more.
+Do you have any “reku-ests”? I’m getting tired of always eating seafood. I have some premium meat that Adonis-dono gave me, so maybe I’ll have that for t—…
+Huh? — A scoundrel!
+
+Eyaaa?! Wh-Wh– Why did a table get cut to pieces in front of me?!
+
+
+I-I– I&#39;m definitely not a suspicious person! If you could just spare me my life…?!
+
+Hm, who are you? What do you intend to do by sneaking around on the floor, you dodgy fellow?
+Are you a thief? You lawless cad! For the sake of &quot;Gaaden Terasu&quot;, this Kanzaki Souma will inflict punishment upon you!
+
+W-Wait a second! Why is this person wielding a Japanese sword as if it’s normal? This is a violation of the Firearms and Swords Act2!
+
+Hmm, you are... I believe you are Sengoku from the Ninja Association. You. Are you acting suspicious again?
+Good grief, it’s a complete nuisance. For some reason, people seem to think you’re close friends with me.
+
+Huh, why? I&#39;m the type of ninja who doesn&#39;t have many close friends, though…
+But it’s not that I can&#39;t make friends because I’m shy! Ninjas are like shadows, destined to live by erasing all traces of their very presence...!
+
+Hmm. I’m samurai-like. You’re ninja-like. The public seems to think that samurai and ninja are birds of a feather.
+
+Ehh!? Ninjas and samurai are completely different! But there were some ninjas who became feudal lords, so I guess it depends on the character of the region?
+And um, Kanzaki-dono is more of a “swordsman” than a “samurai”, right?
+
+Well, I&#39;m not interested in the distinction. However, the problem is that you and I are considered to be compatriots.
+Whenever you do something strange, I get frowned upon, too. It’s better to live a more straightforward life, more pure and honest.
+If you live right, instead of crawling around on the floor like that, you&#39;ll be able to face the sun with pride.
+
+
+F-For some reason, I'm being scolded... Uu~? But I can’t relax in bright places, y’know~…?
+… What on earth have you been doing since a while ago? You can eat while sitting on a chair. Ninjas seem like they’re completely unfamiliar with etiquette.
+If you&#39;re hungry, I&#39;ll share some of my food with you.
+
+Yaaay, I&#39;ve graduated from eating by myself~!
+Ah, Transfer Student-dono was here too! I wonder if I&#39;ve interrupted your date...?
+
+We’re simply “kurasumeito”. We just so happened to share a table today. Now that’s enough, it&#39;s time to eat. It&#39;s said that nausea dwells in an empty stomach.
+
+Thank you, thank you...! I was running out of food allowance this month. Honestly, I was in trouble.
+Also, here in Garden Terrace... I was doing a little fly-catching.
+
+
+Well, now that I see it closely, it’s flypaper! You— Don&#39;t show those things while we’re eating! It’s unsanitary, I&#39;ll lose my appetite!
+Are you going to eat it? Do you eat flies? As I thought, I can&#39;t understand ninjas...!
+
+Hey, please don&#39;t draw your sword?! I’m not going to eat them~! These flies are meant to be frog food.
+
+Fr-Frogs? Are you raising them as pets?
+
+They’re more like friends than pets to raise~ Ninjas use dogs, birds, frogs, and the like.
+But dogs bite, and birds nip with their beaks, so frogs are the best ones to get along with.
+However, they&#39;re bigger eaters than they look. The cost of food is ridiculous, so that’s why I catch flies myself, if that makes sense...?
+
+I-I see. That’s why you set foot for “Gaaden Terasu”. Certainly, those types of insects tend to gather in the dining hall.
+
+That’s right~ Oops, found another fly! I&#39;ll capture it~☆
+
+Don&#39;t mess around while you’re eating! Have you no manners!
+
+Forgive me a million times over, but I&#39;m seriously in trouble. I can&#39;t let my frogs go hungry...
+I&#39;m starving because I&#39;m cutting back on my own food expenses. Ninjas and samurai alike cannot fight if they are hungry.
+So please give me your patience— hm hm! There are flies again~☆
+
+Hey, that&#39;s annoying! Besides, flies have compound eyes. They have excellent dynamic vision, so you can&#39;t catch them with movements like that! Watch!
+En garde–!3
+
+Ooh, you caught a fly with chopsticks! That’s amazing...☆
+
+
+Hehe. I don&#39;t try to pretend I’m as skilled as the ancient swordsman Miyamoto Musashi, but... for a well-trained martial artist, a target such as this is a breeze before breakfast. Ha! Take that! And that4!
+
+Wow, that’s amazing! I want you to catch more, and I want you to teach me how to do it, too~♪
+
+Heh, I don&#39;t hate being praised. But my training will be severe, you know.
+
+Bring it on! Enduring all hardships is what makes a ninja—...
+Ow?!
+
+
+Ogh?! Wh-Why are you hitting us, Transfer Student-dono!
+Huh, “Don&#39;t fool around while eating”...? That&#39;s right, this ninja managed to get me carried away!
+
+Is it my fault?!
+But well, I certainly don&#39;t think it would be a good idea to play with flies while we eat! Forgive me, Transfer Student-dono!
+
+Hehe. Sengoku, you also call Transfer Student-dono &quot;Transfer Student-dono&quot;, huh?
+It gives off the impression that we are samurai and ninja who serve the same master, so what say you and I get along better from now on?
+
+I&#39;m so happy! Yaaay, I&#39;ve made a new friend... ♪ Transfer Student-dono brought us together!
+I’m so thankful, I should call you “Lord&quot;5 instead of “Transfer Student-dono”! You are our master, Lord!
+
+Lord, why have you stopped eating? Come come, eat as much as you like～♪
+
+Lord～♪
+
+Lord～☆
+
+
+...Ow?! You hit me again! I suppose you’d rather be called “Princess” instead of “Lord”?
+
+Hmm, a girl&#39;s heart is complicated...
+Sengoku, if you&#39;re having trouble finding food for your frogs, come to the Marine Life Club room later. We may have some food stocked up, so I&#39;ll lend you a little.
+
+Uwaa, that&#39;d save me trouble! But it&#39;s cool to catch flies with chopsticks too. I&#39;d be happy if you could teach me how to do it later~♪
+Ehehe, I had a really fun lunchtime today! I am terribly grateful~♪
+
+
+  
+  
+  
+  
+Translation Notes
+↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma and Shinobu an old-timey feel.↑ Very strict regulations on the possession and use of firearms and swords in Japan.↑ ちぇすと is an exclamation. Souma says it a lot when he lunges with his sword.↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ They're using 殿 (dono) by itself here.]]></content>
   </entry>
 </search>
