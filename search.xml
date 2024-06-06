@@ -232,6 +232,477 @@ I doubt you’re the type to hold back, but let me know what you think about it.
 ↑ Comic World (which takes place in summer) reveals that Keito ends up doing the paperwork for Kaoru himself.]]></content>
   </entry>
   <entry>
+    <title>2024 Idol Hospitality Campaign | AKATSUKI &amp; RYUSEITAI Oshi Room</title>
+    <url>/translation//oshi_room_2024/</url>
+    <content><![CDATA[
+
+
+
+$(document).ready(function() {
+ var $container = $(".grid"); // the container with all the elements to filter inside
+ var filters = {}; //should be outside the scope of the filtering function
+ /* --- read the documentation on isotope.metafizzy.co for more options --- */
+ var $grid = $container.isotope({
+   oshiitemSelector: ".oshiitem", // the elements to filter
+   percentPosition: true // put true if you use percentage widths, otherwise put false
+ });
+ $(".option-set a").click(function(e) {
+   var $this = $(this); // cache the clicked link
+   var filterAttr = "data-filter-value";
+   var filterValue = $this.attr(filterAttr); // cache the filter
+   var $optionSet = $this.parents(".option-set"); // cache the parent element
+   var group = $optionSet.attr("data-filter-group"); // cache the parent filter group
+   var filterGroup = filters[group];
+   if (!filterGroup) {
+     filterGroup = filters[group] = [];
+   }
+   var $selectAll = $optionSet.find('a['+filterAttr+'=""]'); // the 'select all' button in the current group
+   var activeClass = "selected", // the class for active links
+     exclClass = "exclusive"; // the class for exclusive groups
+ comboFiltering($this,filters,filterAttr,filterValue,$optionSet,group,$selectAll,activeClass,exclClass);
+   var comboFilter = getComboFilter(filters);
+   $grid.isotope({
+     filter: comboFilter
+   });
+   $this.toggleClass(activeClass);
+   e.preventDefault();
+ });
+});
+
+
+
+ 
+    
+        
+            
+                
+                    Characters
+                
+                
+                    
+                    
+                    
+                    
+                    
+                    
+					
+                    
+                
+            
+            
+                
+                    Writer
+                
+                
+                    Akira
+                
+            
+            
+                
+                    Translation
+                
+                
+                    citrinesea, 310mc
+                
+            
+            
+                
+                   Proofreading
+                
+                
+                    310mc, ryuseipuka
+                
+            
+        
+    
+
+
+In this campaign, you get to narrow down your favorite idols to a singular "oshi": your favorite. The following translation has: the keywords and filters used for the idol selection screen, Q&A responses and charts, and the phone calls you receive after choosing your 3 top idols. Additionally, the "Surging Wave Invitation Campaign" classfications are added to the filter (watch the videos here).
+AKATSUKI translated by citrinesea, RYUSEITAI translated by 310mc
+ Profile Filters
+
+
+   
+     Charm
+     All
+     Cute
+     Cool
+     Intellectual
+     Lively
+     Muscular
+     Neat and Tidy
+     A Little Messy
+   
+   
+     Details
+     All
+     Younger Brother
+     Older Brother
+     Only Child
+     Certified Driver
+     Athletic Club Member
+     Culture Club Member
+   
+   
+     "My Kind of Guy" Ads
+     All
+     Cute and Healing
+     Cheerful
+     Reliable
+     Intelligent
+     Musclebro
+     My Pace
+     Cool
+   
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+Interviews
+ Where would you go on a first date?
+ A manga museum. I&#39;d like to show you my favorite works, but if we can&#39;t read them all in one day, we can come back another time.
+
+ How about window-shoppin’? We won&#39;t run outta things to talk about when we’re lookin’ at all the different shops and goods. We can find out each other’s taste in fashion and what sorta trends are hot, too.
+
+ What about a “cat ka-fay”? Cats look so adorable, just seeing them is sure to make the two of us smile...~♪
+
+ I’d like to go to a theme park! ‘Cuz there’s all sortsa things we could do there together, like going on a buncha rides, buying souvenirs, and so much more~♪
+
+ I think it’d be fun anywhere, as long as I’m with the person I love, but… For me, it’d be even more fun if we’re at a place that has yuruchara.
+
+ I would love an opportunity to lead the way around a ninja village! I want to show you all there is to know about my favorite thing! Be it by witnessing ninjutsu, having a first-hand experience with it, or anything else of the like~♪
+
+ A date means going to the amusement park! There’s roller coasters, the ferris wheel, and most importantly, hero shows! The day would pass by in a flash! ☆
+
+ on warm days, i would like to have fun at the [ocean]~ and in the colder seasons, we can visit the [aquarium]...♪
+ What was the last message exchange you had with someone in your unit?
+ I contacted Kiryu and Kanzaki about our work schedules, but neither of them responded. Well, that isn’t unusual, though.
+
+ I wanted to hear what their plans were for our new song, so I hit ‘em up. After that, we ended up meetin&#39; up and talkin&#39; face-to-face.
+
+ I hadn&#39;t realized I&#39;d sent an incomprehensible string of characters, so I contacted my seniors to apologize. Handling a &quot;sumaho&quot; is difficult…
+
+ I messaged everyone ‘bout when we’ll have our next practice session together! Midori-kun’s the only one who hasn’t responded yet, so I’m just gonna go and ask him directly!
+
+ My parents gave me lots of vegetables, so I asked everyone in my unit if they’d like some before I offered them to anyone else. I’ll carry some with me later.
+
+ Tetora-kun sent me our schedule for the practice session, so I replied to that! I’m in charge of booking us a practice room~♪
+
+ I got my hands on some ninja-themed sentai merchandise, so I couldn’t help but message Sengoku about it. It made me happy to get a text praising how cool it looks! ☆
+
+ i messaged chiaki that i am at the [ocean]. he gets [worried] when i do not tell him [where] i am.
+ Why are you so cool?
+ It&#39;s because of the support and encouragement around me. My friends and allies are the reason I can stand on stage and strive for greater heights.
+
+ I guess it&#39;s ‘cuz AKATSUKI is where I can be with Hasumi ‘n Kanzaki. When I see those two honest guys, it’s like my spine just straightens up on its own.
+
+ There&#39;s something about that comment that makes me feel bashful. However, I&#39;m pleased if my daily training has led to that kind of impression.
+
+ Maybe it’s ‘cuz everyone’s always supporting me? Also, if you think my constant hard work towards my goal is somethin’ “cool”, then I’m real happy ‘bout that!
+
+ I don’t really know how to answer that… But I think that it’s thanks to my parents that I was born with this face, so I’ll express my gratitude to them later…
+
+ I-I’m cool? It surprises me to hear that, but I’d certainly be glad if you consider ninjas to be something cool!
+
+ It might be because I dream of becoming a hero. And not just any hero, but a “cool” one…☆
+
+ it is because there are so many [cool] people around me~ so maybe i am also more likely to be seen as cool along with them…?
+ What are your best subjects?
+ You could say that liberal arts as a whole are my strongpoint. I believe I&#39;ve not only excelled in Japanese language and history, but also in civics.
+
+ I&#39;m good at sewin’ and cookin’, so home economics is my forte. I usually suck at studying the classic way... especially math; it hurts my head.
+
+ I enjoy classical literature and Japanese history. On the contrary, I am not as good at English and world history. While I improve on my current abilities, I want to overcome my weaknesses too.
+
+ I’m confident with my practical classes, like P.E. and home economics~♪ I wanna get better at theory-based subjects too, but it’s pretty difficult for me…
+
+ Math’s my best subject, or more like, it’s the only thing I can do…? I’m not at all good with other subjects, so I think I’m pretty compatible with it.
+
+ I’ve got a bit of confidence when it comes to Japanese history! I studied a whole lot to make myself well-versed with the era of ninjas~♪
+
+ My best subjects are the liberal arts, like Japanese literature and language! And my weakest subject is math. I would always study until late at night before a test for that class.
+
+ [history] and [biology] might be my best subjects? well, i say [biology], but i actually mean [marine] biology...♪
+ What’s the first thing you do when you wake up in the morning?
+ I try to set aside the time for meditation. Not only does it improve my ability to concentrate and relax, but it seems to have a positive effect on creativity too.
+
+ A while ago, I fell asleep with the light on in my room. Guess that’s why the first thing I do when I get up is to check if they’re still on.
+
+ I prepare breakfast. Now that I have a new kitchen knife, I look forward to cooking with it every day~♪
+
+ I heard it was good for your health if you drink a glass of water in the morning, so I do that. After that, I go out for my morning training routine.
+
+ I play a yuruchara game on my phone. That’s the best way to spend time whenever you wanna lie in bed for a little longer, yeah?
+
+ I try to do exercises that help you grow taller. I hope it works out, even if I only grow a tiny bit more~
+
+ I begin my day with a fresh start by doing radio exercises!1 I get to move every muscle in my body in an efficient manner, and it also feels really good to refresh my mind and body first thing in the morning!
+
+ i have new [fishies] in my room’s [water tanks], so i [check] how they are doing when i [greet] them~♪
+Oshi Calls
+ Keito Hasumi
+
+ “This is Hasumi Keito from AKATSUKI. To put it bluntly, I’m wondering if you’ll choose me as your “oshi”.”
+“Er, I’m sorry if I caught you off guard. If I hope to be chosen, I should probably talk more about my charm in my own words. Well then…”
+“As AKATSUKI’s leader, I build up experience as an idol day by day. I work hard to make sure AKATSUKI evolves until everyone knows who we are as a unit.”
+“Also…… Well, it’d be a long story if I were to go on. I’ll strive to give it my all, and let my work speak for itself. Keep your eyes on me, and see for yourself if I’m worthy of being your “oshi”.”
+
+ Kuro Kiryu
+
+ “Yo, I’m Kiryu Kuro. I work as part of AKATSUKI.”
+“I&#39;m not really used to sellin’ myself, but this is a great opportunity. I gotta make sure you get to know a li’l bit about me.”
+“The thing I&#39;m good at is sewin’. I make costumes for AKATSUKI, but I also stitch up outfits for other people if they request it. So, well, guess you could say I&#39;m good with my hands.”
+“I dunno if if I did a good job showin’ off my good points…… but if you choose to support me, I&#39;ll repay it in full. If it’s fine with you, come along with me.”
+
+ Souma Kanzaki
+
+ “Ohhh, it connected~♪ I presume that you must be the “aidoru fan”. I am Kanzaki Souma, It’s a pleasure to meet you!”
+“I am an “aidoru” who is a member of the “yunitto” AKATSUKI. As the descendant of a samurai clan, I’ve a sword on one side and a mindfulness of “tii-pii-ooh”2 on the other!”
+“...... To tell you the truth, I’m not sure I understand what being someone’s “oshi” really entails yet. However, I imagine it’s similar to a samurai’s pledge of devotion to their lord.”
+“I’ll show you that I’m a splendid “aidoru” worthy of your support. I hope that you will cheer for me….~♪”
+
+ Tetora Nagumo
+
+ “Ossu, I’m Nagumo Tetora! I’m in STARMAKER PRODUCTION’s RYUSEITAI!”
+&quot;My hobby is doing workouts like weight-training, and my specialty is cooking the manliest food over an open flame. I’m always in the thick of it, working hard and growing in order to become a man among men~♪&quot;
+“No matter what hardship knocks me down, I’ll show you that I can stand right back up and overcome it all. That’s how I wanna move forward as an idol too, step by step!”
+“I’ll definitely become an idol so great, you’ll be glad that you chose me, so… I hope that you can support me…!”
+
+ Midori Takamine
+
+ “I’m Takamine Midori from RYUSEITAI. Umm, I’m not too sure what to talk about here, but I’ll try…”
+“My family runs a greengrocer business, and I help them out often. Because of that, I like vegetables quite a bit… Ah, but the thing I love most is yuruchara~♪”
+“On the other hand, I have a lot of things I’m not a fan of… Ah, but maybe I shouldn’t mention those right now. I’m sorry, I always get negative so easily…”
+“I haven’t shown much appeal at all, but I’ll do as best as I can in my own way, so… If it’s alright, I’d be happy to have your support…♪”
+
+ Shinobu Sengoku
+
+ “I’m Sengoku Shinobu, a member of RYUSEITAI! I’m a ‘ninja’, so I devote myself to training and discipline day after day.”
+“It’s difficult to explain in a few words why I chose to be a ninja, but… From a young age, I have always admired the ninja’s way of life, and so I aspired to become one myself~♪”
+“Ninjas may be ones who conceal themselves, but I’m not simply a ninja — I’m an idol as well! So I always put everything I have acquired in my ninja training to good use, even on stage!”
+“It would make me happy if you watched my acrobatic performances, and chose me as your ‘oshi’~♪”
+
+ Chiaki Morisawa
+
+ “The hero of justice, Morisawa Chiaki—! Has just made his arrival! …Mhm, I got that pose down perfectly! ☆”
+“Alongside my comrades in RYUSEITAI, I work hard in my activities every day, both as a hero and as an idol!”
+“I want to make everyone smile, and that feeling is stronger and more passionate than anyone else’s. I strive to always keep it that way. And the source of that burning passion is none other than the encouraging cheers of our fans!”
+“That’s why I’d like you to send me your support by calling for my name as loud as you can! I’m counting on you!”
+
+ Kanata Shinkai
+
+ “hello~♪ i am shinkai kanata from ryuseitai.”
+“i love the ocean, so i often take walks on the [beach] and [bathe] in [water]. i also love [fishies]~♪”
+
+”to give your life a plentiful amount of [replenishment] as well, i will deliver many [songs] to you.”
+
+“so i would love it if you would cheer for me. puka, puka…♪”
+
+
+  
+  
+  
+  
+↑ Radio calisthenics (ラジオ体操 lit., &quot;radio exercises&quot;) are warm-up exercises performed to music and guidance from radio broadcasts.↑ This is TPO (time, place, and occasion): there is a time and place for everything. For Souma, that's about being mindful of social expectations before he pulls out his sword. Adonis explains it to him in Resurrection Sunday]]></content>
+  </entry>
+  <entry>
+    <title>Many Minds, One Flower</title>
+    <url>/translation//many_minds_one_flower/</url>
+    <content><![CDATA[
+ 
+    
+        
+            
+                
+                    Characters
+                
+                
+								
+                
+                
+                
+                
+                
+            
+            
+                
+                    Writer
+                
+                
+                    Yuumasu
+                
+            
+            
+                
+                    Translation
+                
+                
+                    citrinesea
+                
+            
+            
+                
+                   Proofreading
+                
+                
+                    310mc
+                
+            
+        
+    
+
+
+
+    Season: Summer
+
+
+    Location: Starmony Dorm Commons
+
+
+ (... I know that singing and dancing aren’t the only jobs an idol does, but I never thought I&#39;d have to perform an ikebana1 demonstration)
+(As Rhythm Link’s representative, I have to make sure I present something that doesn’t bring shame to the agency.)
+
+…… all done~♪
+
+ Really? I haven’t even put together the main materials yet. Do you have experience in this, by any chance—-
+…… Shinkai. What is that?
+
+what do you mean? it’s [ikebana], of course. from the school of [shinkai]2……☆
+
+ There’s no helping you. Don’t claim to be a school as you please. No matter how you look at it, all you did was stick a fish onto the needle bed.
+We’re arranging flowers, not fish. This is beyond unacceptable. As STAR PRO’s representative, don’t you feel the least bit shameful?
+
+mmph… the only people who get to decide whether my [arrangement] is [acceptable] are the [beholders]. not you, [temple guy].☆
+is it [bad] if I don’t follow the [model]? if that’s the only way to get [recognized], that’s a little boring, isn’t it?
+anyway, I’ve grown tired of [ikebana], so i’m done here. i’m going to go [soak] in the [pond]……♪
+
+….. What an uninhibited guy. He does realize that this would make it a “coral arrangement”, not a “floral arrangement”, right?3
+(But Shinkai has a point. It’d be hard to say that it’s my work if I just stick to the textbook.)
+(However, you should only be creative and break the rules after you’ve learned them. If you take it on with your own style while you’re inexperienced, you’ll end up with a ridiculous work of art.)
+(Before anything else, I’ve got to thoroughly drill the basics in my head.)
+
+
+
+    One hour later
+
+(…… Hmm. This should be good enough for now.)
+(But it looks just like the picture in the textbook……)
+
+Hello. Are you doing ikebana? What an unusual hobby~
+
+Not quite. I’m going to be participating in a flower-arranging demonstration. This is just practice.
+
+I see. And this is… a fish arrangement? Is this your work too, Keito-kun?
+
+That would be Shinkai’s work. It stinks, as you’d expect from fish… It doesn’t look like he’ll be coming back either. I’ll have to go put this in the kitchen.
+That&#39;s right. Aoba, if you don&#39;t mind, could you give me your thoughts on my work? I can&#39;t really judge it for myself.
+
+My thoughts? Mmnnn~ I think it looks nice, but…
+
+Don’t hold back. I want your honest opinion.
+
+No, it&#39;s not that I’m holding back. I just don&#39;t know much about ikebana. I know a lot about flower meanings, though.
+Could I try it too? I feel like I could evaluate your work properly if I try it myself.
+
+Hmm. They do say that teaching is the best way to learn……
+
+(Sniff sniff)…  I thought it smelled like flowers here. It was you guys, huh?.
+
+Ah, good afternoon. How about you join us, Ogami-kun?
+
+Ehhh…?
+
+
+
+    Another hour later
+
+— And now for the arrangement. Place the flowers so that they fill in the gaps between the ones you just inserted.
+
+In the gaps, got it~
+
+Gaaaaah! I jumped in ‘cuz it looked interesting, but it’s taking forever! What a pain~!
+I mean, it&#39;s not rock ‘n roll to fit into the mold! I’m just gonna be me, like this, this ‘n — this!
+How’s that, Hasumi-senpai! This looks way more like an UNDEAD flower stand now. Cool, dontcha think~♪
+
+First it was Shinkai, now it’s you… You’re truly hopeless…… We’re making flower arrangements, not flower stands.
+
+I&#39;m baaack. Hah~, I&#39;m tired……
+Aoba-onii-chan, you’re holding something nice, huh. Gimme that rose~♪
+
+Of course, here you are.
+
+Thank you. (Nibble nibble)…
+
+— Y-You ate it?!
+
+I didn’t eat it. I just wanted to get energy from the rose~4
+Are you all playing with flowers together? How peaceful...
+
+It’s ikebana. Come to think of it, aren’t you also making an appearance on the show?
+
+Making an appearance.... Ah, that variety show. I see, so that’s why you’re doing this.
+I don’t think they expect us to be proficient at it, so do we really need to practice?
+We were invited to do our part as idols, so making the screen lively is enough, right?
+Kei-chan, your stamina has its bounds, right? If you give anything and everything your all, one of these days you’re going to collapse.
+
+Hmm. It’s a reasonable point.
+But in order to leave a good mark, I intend to put my entire heart and soul into the task. Rhythm Link is already packed with top veterans, after all.
+I’ll perform well so they’ll ask me to return. This is just me laying the groundwork in order to break into semi-regular status.
+
+Hmm…… Well, I guess I&#39;ll join you guys and have some fun with the flowers, too. You&#39;ll probably improve if you have a rival...
+And as NEW DI’s representative, I can&#39;t just stand by and watch…...♪
+
+Hmph, do whatever you like. You&#39;re probably more of a natural at this sort of thing than I am, but...
+Hard work will not betray me. I’ll have the last laugh.
+
+
+  
+  
+  
+  
+Translation Notes
+↑ Ikebana (生け花, lit. giving life to flowers) is the art of Japanese flower arrangement. Read about its principles and relationship with Buddhism here↑ Schools pass on the art of ikebana to students. Each individual school follows a particular set of principles, philosophies, and arranging techniques, all which vary depending on the school. Matching the name format of (school)-ryu (流), Kanata calls it 深海流 (School of Shinkai).↑ Originally, he says 生け花、生け魚 (flower arrangement, fish arrangement), but since it rhymed (hana, sakana), I wanted to preserve his pun.↑ A good reference for this is this Ritsu card from Fleur de Lis]]></content>
+  </entry>
+  <entry>
     <title>Onigashima</title>
     <url>/translation//onigashima/</url>
     <content><![CDATA[
@@ -1244,6 +1715,32 @@ I&#39;d love to show all&#39;a that to the old me. He’d be surprised for sure.
   
 Translation Notes
 ↑ &quot;とりゃ！せいや!&quot; are more exclamations from martial arts like judo. They can be used when throwing something/someone heavy, or intimidating the opponent.↑ Tetora refers to Kuro as 大将 (taishou, lit. large general ), or boss.↑ More about uchikomi and kumite here.↑ -殿 (-dono) is an honorific that roughly means &quot;lord&quot; or &quot;master&quot;. It's archaic, which gives Souma an old-timey feel.↑ AKATSUKI's Chocolat Fes story is Decorate. If you're curious about RYUSEITAI's it's Hot and Elegant Chocolat Fes.↑ Onigashima hinges around the phrase『お礼参り』する (lit. pay one's respects at a shrine). Colliqually, this refers to someone who's going to retaliate against someone else (i.e., someone who hasn't paid a loan). Souma thinks Tetora is using its original meaning.↑ In Japanese, words from other languages (such as English) are typically rendered in katakana. However, when Souma uses katakana words, they are all written in hiragana instead, likely to emphasize how he struggles with foreign words. These words are kept as written in hiragana, and put in &quot;quotes&quot;.↑ From the story Four Beasts of Fist Fighting. Keito's playing coy here because he was actually the one to divert attention away from the Dragon King Competition.↑ Kuro often refers to Keito as 旦那 (danna, lit. master ), or &quot;boss&quot;. He'll also use Hasumi-no-danna.↑ Statues of the Bodhisattva Jizo often dot along trails and sit innocuously, looking over wandering travelers.↑ Tetora is saying 止めて stay with me (stop, don't go) but Kuro thinks he's saying 泊めて stay (at my place) because they're both pronounced とまる.↑ Based on folklore, giving someone one thousand origami cranes is meant to wish them well or wish them long health.↑ This happened in The Wolf and Red Riding Hood with Kuro, Souma, Nazuna and Shinobu.↑ The story of Momotaro follows a boy who goes to Onigashima (lit. Ogre Island) to fight the ogres that live there. On the way, he befriends a talking dog, monkey and pheasant, who agree to help him in his quest.↑ If you wanna see Kuro's acting chops, read Tough Guy where he practices with Chiaki, Tetora and Midori.]]></content>
+  </entry>
+  <entry>
+    <title>9th Anniversary Log-In | Keito and Kanata</title>
+    <url>/translation//9th_anniversary_dialogue/</url>
+    <content><![CDATA[
+ .translationsquare video {
+  /* Make video to at least 100% wide and tall */
+  max-width: 100%; 
+  max-height: 100%; 
+
+  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+  width: auto;
+  height: auto;
+}
+
+
+
+Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
+
+i’m not [spacing out]…? I was puka-pukaing to the sway of all the [penlights]~
+
+  
+  
+  
+  
+]]></content>
   </entry>
   <entry>
     <title>Opera</title>
@@ -2544,345 +3041,6 @@ Translation Notes
 ↑ From the story Quarrel Festival. This will come up a lot.↑ The Meiji Era (明治時代) (1868-1912) is the backdrop for Opera, marked by major political, economic and social change, rapid modernization, industrialization and Westernization in Japan.↑ During the Meiji Era, houseboys were aspiring-students who lived in hosts' homes as they traveled to cities to study.↑ Tsujigiri (辻斬り or 辻斬, lit. &quot;crossroads killing&quot;) was a samurai-practice where samurai test a new sword's effectiveness by attacking (usually defenseless) passersby. In this story, they use Tsujigiri as a noun.↑ Among other things, an affirmative and greeting Tetora uses↑ Tetora refers to Kuro as 大将 (taishou, lit. high-ranking general ), or boss. Not to be confused with Chiaki's 隊長 (taichou).↑ There's a similar line in Tough Guy about Kuro's forgetfulness. Cute!↑ 道場破り (dojoyaburi, lit. dojo storming ). In martial arts, this is when someone visits rival martial arts schools and challenges its members to assert dominance over whose technique is better. If the dojo lost, its apprentices would abandon it for the winner's school. Read more here.↑ We tried our best. He used 人徳 (lit. natural virtue) here. He's trying to get at the fact there's something fundamentally different about him and Kuro that's ultimately out of his control.↑ Souma says the same thing in Scroll of the Elements. We love callbacks!↑ Souma's running gag is regularly resorting to performing seppuku to make up for trouble. 切腹 (seppuku or harakiri, lit. belly-cutting ) was a form of ritualistic suicide samurai used for a variety of reasons. For Souma, that tends to be shame.↑ This is actually an Ensemble Girls reference.↑ &quot;Hasumin fairies&quot; on Google found this manga about a boy named Ian Hasumi who can see fairies. Do with that as you will.↑ Kuro often refers to Keito as 旦那 (danna, lit. master), or &quot;boss&quot;. Hasumi-no-danna is a variation of this.↑ A reference to the Emperor's New Clothes.↑ He references a Hannya (般若) mask, specifically. It's from Noh theatre.↑ 幽霊部員 (yuurei buin, lit. ghost members). It's someone who's a member of a club on paper, but otherwise just doesn't show up or participate in club activities.]]></content>
   </entry>
   <entry>
-    <title>2024 Idol Hospitality Campaign | AKATSUKI &amp; RYUSEITAI Oshi Room</title>
-    <url>/translation//oshi_room_2024/</url>
-    <content><![CDATA[
-
-
-
-$(document).ready(function() {
- var $container = $(".grid"); // the container with all the elements to filter inside
- var filters = {}; //should be outside the scope of the filtering function
- /* --- read the documentation on isotope.metafizzy.co for more options --- */
- var $grid = $container.isotope({
-   oshiitemSelector: ".oshiitem", // the elements to filter
-   percentPosition: true // put true if you use percentage widths, otherwise put false
- });
- $(".option-set a").click(function(e) {
-   var $this = $(this); // cache the clicked link
-   var filterAttr = "data-filter-value";
-   var filterValue = $this.attr(filterAttr); // cache the filter
-   var $optionSet = $this.parents(".option-set"); // cache the parent element
-   var group = $optionSet.attr("data-filter-group"); // cache the parent filter group
-   var filterGroup = filters[group];
-   if (!filterGroup) {
-     filterGroup = filters[group] = [];
-   }
-   var $selectAll = $optionSet.find('a['+filterAttr+'=""]'); // the 'select all' button in the current group
-   var activeClass = "selected", // the class for active links
-     exclClass = "exclusive"; // the class for exclusive groups
- comboFiltering($this,filters,filterAttr,filterValue,$optionSet,group,$selectAll,activeClass,exclClass);
-   var comboFilter = getComboFilter(filters);
-   $grid.isotope({
-     filter: comboFilter
-   });
-   $this.toggleClass(activeClass);
-   e.preventDefault();
- });
-});
-
-
-
- 
-    
-        
-            
-                
-                    Characters
-                
-                
-                    
-                    
-                    
-                    
-                    
-                    
-					
-                    
-                
-            
-            
-                
-                    Writer
-                
-                
-                    Akira
-                
-            
-            
-                
-                    Translation
-                
-                
-                    citrinesea, 310mc
-                
-            
-            
-                
-                   Proofreading
-                
-                
-                    310mc, ryuseipuka
-                
-            
-        
-    
-
-
-In this campaign, you get to narrow down your favorite idols to a singular "oshi": your favorite. The following translation has: the keywords and filters used for the idol selection screen, Q&A responses and charts, and the phone calls you receive after choosing your 3 top idols. Additionally, the "Surging Wave Invitation Campaign" classfications are added to the filter (watch the videos here).
-AKATSUKI translated by citrinesea, RYUSEITAI translated by 310mc
- Profile Filters
-
-
-   
-     Charm
-     All
-     Cute
-     Cool
-     Intellectual
-     Lively
-     Muscular
-     Neat and Tidy
-     A Little Messy
-   
-   
-     Details
-     All
-     Younger Brother
-     Older Brother
-     Only Child
-     Certified Driver
-     Athletic Club Member
-     Culture Club Member
-   
-   
-     "My Kind of Guy" Ads
-     All
-     Cute and Healing
-     Cheerful
-     Reliable
-     Intelligent
-     Musclebro
-     My Pace
-     Cool
-   
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-Interviews
- Where would you go on a first date?
- A manga museum. I&#39;d like to show you my favorite works, but if we can&#39;t read them all in one day, we can come back another time.
-
- How about window-shoppin’? We won&#39;t run outta things to talk about when we’re lookin’ at all the different shops and goods. We can find out each other’s taste in fashion and what sorta trends are hot, too.
-
- What about a “cat ka-fay”? Cats look so adorable, just seeing them is sure to make the two of us smile...~♪
-
- I’d like to go to a theme park! ‘Cuz there’s all sortsa things we could do there together, like going on a buncha rides, buying souvenirs, and so much more~♪
-
- I think it’d be fun anywhere, as long as I’m with the person I love, but… For me, it’d be even more fun if we’re at a place that has yuruchara.
-
- I would love an opportunity to lead the way around a ninja village! I want to show you all there is to know about my favorite thing! Be it by witnessing ninjutsu, having a first-hand experience with it, or anything else of the like~♪
-
- A date means going to the amusement park! There’s roller coasters, the ferris wheel, and most importantly, hero shows! The day would pass by in a flash! ☆
-
- on warm days, i would like to have fun at the [ocean]~ and in the colder seasons, we can visit the [aquarium]...♪
- What was the last message exchange you had with someone in your unit?
- I contacted Kiryu and Kanzaki about our work schedules, but neither of them responded. Well, that isn’t unusual, though.
-
- I wanted to hear what their plans were for our new song, so I hit ‘em up. After that, we ended up meetin&#39; up and talkin&#39; face-to-face.
-
- I hadn&#39;t realized I&#39;d sent an incomprehensible string of characters, so I contacted my seniors to apologize. Handling a &quot;sumaho&quot; is difficult…
-
- I messaged everyone ‘bout when we’ll have our next practice session together! Midori-kun’s the only one who hasn’t responded yet, so I’m just gonna go and ask him directly!
-
- My parents gave me lots of vegetables, so I asked everyone in my unit if they’d like some before I offered them to anyone else. I’ll carry some with me later.
-
- Tetora-kun sent me our schedule for the practice session, so I replied to that! I’m in charge of booking us a practice room~♪
-
- I got my hands on some ninja-themed sentai merchandise, so I couldn’t help but message Sengoku about it. It made me happy to get a text praising how cool it looks! ☆
-
- i messaged chiaki that i am at the [ocean]. he gets [worried] when i do not tell him [where] i am.
- Why are you so cool?
- It&#39;s because of the support and encouragement around me. My friends and allies are the reason I can stand on stage and strive for greater heights.
-
- I guess it&#39;s ‘cuz AKATSUKI is where I can be with Hasumi ‘n Kanzaki. When I see those two honest guys, it’s like my spine just straightens up on its own.
-
- There&#39;s something about that comment that makes me feel bashful. However, I&#39;m pleased if my daily training has led to that kind of impression.
-
- Maybe it’s ‘cuz everyone’s always supporting me? Also, if you think my constant hard work towards my goal is somethin’ “cool”, then I’m real happy ‘bout that!
-
- I don’t really know how to answer that… But I think that it’s thanks to my parents that I was born with this face, so I’ll express my gratitude to them later…
-
- I-I’m cool? It surprises me to hear that, but I’d certainly be glad if you consider ninjas to be something cool!
-
- It might be because I dream of becoming a hero. And not just any hero, but a “cool” one…☆
-
- it is because there are so many [cool] people around me~ so maybe i am also more likely to be seen as cool along with them…?
- What are your best subjects?
- You could say that liberal arts as a whole are my strongpoint. I believe I&#39;ve not only excelled in Japanese language and history, but also in civics.
-
- I&#39;m good at sewin’ and cookin’, so home economics is my forte. I usually suck at studying the classic way... especially math; it hurts my head.
-
- I enjoy classical literature and Japanese history. On the contrary, I am not as good at English and world history. While I improve on my current abilities, I want to overcome my weaknesses too.
-
- I’m confident with my practical classes, like P.E. and home economics~♪ I wanna get better at theory-based subjects too, but it’s pretty difficult for me…
-
- Math’s my best subject, or more like, it’s the only thing I can do…? I’m not at all good with other subjects, so I think I’m pretty compatible with it.
-
- I’ve got a bit of confidence when it comes to Japanese history! I studied a whole lot to make myself well-versed with the era of ninjas~♪
-
- My best subjects are the liberal arts, like Japanese literature and language! And my weakest subject is math. I would always study until late at night before a test for that class.
-
- [history] and [biology] might be my best subjects? well, i say [biology], but i actually mean [marine] biology...♪
- What’s the first thing you do when you wake up in the morning?
- I try to set aside the time for meditation. Not only does it improve my ability to concentrate and relax, but it seems to have a positive effect on creativity too.
-
- A while ago, I fell asleep with the light on in my room. Guess that’s why the first thing I do when I get up is to check if they’re still on.
-
- I prepare breakfast. Now that I have a new kitchen knife, I look forward to cooking with it every day~♪
-
- I heard it was good for your health if you drink a glass of water in the morning, so I do that. After that, I go out for my morning training routine.
-
- I play a yuruchara game on my phone. That’s the best way to spend time whenever you wanna lie in bed for a little longer, yeah?
-
- I try to do exercises that help you grow taller. I hope it works out, even if I only grow a tiny bit more~
-
- I begin my day with a fresh start by doing radio exercises!1 I get to move every muscle in my body in an efficient manner, and it also feels really good to refresh my mind and body first thing in the morning!
-
- i have new [fishies] in my room’s [water tanks], so i [check] how they are doing when i [greet] them~♪
-Oshi Calls
- Keito Hasumi
-
- “This is Hasumi Keito from AKATSUKI. To put it bluntly, I’m wondering if you’ll choose me as your “oshi”.”
-“Er, I’m sorry if I caught you off guard. If I hope to be chosen, I should probably talk more about my charm in my own words. Well then…”
-“As AKATSUKI’s leader, I build up experience as an idol day by day. I work hard to make sure AKATSUKI evolves until everyone knows who we are as a unit.”
-“Also…… Well, it’d be a long story if I were to go on. I’ll strive to give it my all, and let my work speak for itself. Keep your eyes on me, and see for yourself if I’m worthy of being your “oshi”.”
-
- Kuro Kiryu
-
- “Yo, I’m Kiryu Kuro. I work as part of AKATSUKI.”
-“I&#39;m not really used to sellin’ myself, but this is a great opportunity. I gotta make sure you get to know a li’l bit about me.”
-“The thing I&#39;m good at is sewin’. I make costumes for AKATSUKI, but I also stitch up outfits for other people if they request it. So, well, guess you could say I&#39;m good with my hands.”
-“I dunno if if I did a good job showin’ off my good points…… but if you choose to support me, I&#39;ll repay it in full. If it’s fine with you, come along with me.”
-
- Souma Kanzaki
-
- “Ohhh, it connected~♪ I presume that you must be the “aidoru fan”. I am Kanzaki Souma, It’s a pleasure to meet you!”
-“I am an “aidoru” who is a member of the “yunitto” AKATSUKI. As the descendant of a samurai clan, I’ve a sword on one side and a mindfulness of “tii-pii-ooh”2 on the other!”
-“...... To tell you the truth, I’m not sure I understand what being someone’s “oshi” really entails yet. However, I imagine it’s similar to a samurai’s pledge of devotion to their lord.”
-“I’ll show you that I’m a splendid “aidoru” worthy of your support. I hope that you will cheer for me….~♪”
-
- Tetora Nagumo
-
- “Ossu, I’m Nagumo Tetora! I’m in STARMAKER PRODUCTION’s RYUSEITAI!”
-&quot;My hobby is doing workouts like weight-training, and my specialty is cooking the manliest food over an open flame. I’m always in the thick of it, working hard and growing in order to become a man among men~♪&quot;
-“No matter what hardship knocks me down, I’ll show you that I can stand right back up and overcome it all. That’s how I wanna move forward as an idol too, step by step!”
-“I’ll definitely become an idol so great, you’ll be glad that you chose me, so… I hope that you can support me…!”
-
- Midori Takamine
-
- “I’m Takamine Midori from RYUSEITAI. Umm, I’m not too sure what to talk about here, but I’ll try…”
-“My family runs a greengrocer business, and I help them out often. Because of that, I like vegetables quite a bit… Ah, but the thing I love most is yuruchara~♪”
-“On the other hand, I have a lot of things I’m not a fan of… Ah, but maybe I shouldn’t mention those right now. I’m sorry, I always get negative so easily…”
-“I haven’t shown much appeal at all, but I’ll do as best as I can in my own way, so… If it’s alright, I’d be happy to have your support…♪”
-
- Shinobu Sengoku
-
- “I’m Sengoku Shinobu, a member of RYUSEITAI! I’m a ‘ninja’, so I devote myself to training and discipline day after day.”
-“It’s difficult to explain in a few words why I chose to be a ninja, but… From a young age, I have always admired the ninja’s way of life, and so I aspired to become one myself~♪”
-“Ninjas may be ones who conceal themselves, but I’m not simply a ninja — I’m an idol as well! So I always put everything I have acquired in my ninja training to good use, even on stage!”
-“It would make me happy if you watched my acrobatic performances, and chose me as your ‘oshi’~♪”
-
- Chiaki Morisawa
-
- “The hero of justice, Morisawa Chiaki—! Has just made his arrival! …Mhm, I got that pose down perfectly! ☆”
-“Alongside my comrades in RYUSEITAI, I work hard in my activities every day, both as a hero and as an idol!”
-“I want to make everyone smile, and that feeling is stronger and more passionate than anyone else’s. I strive to always keep it that way. And the source of that burning passion is none other than the encouraging cheers of our fans!”
-“That’s why I’d like you to send me your support by calling for my name as loud as you can! I’m counting on you!”
-
- Kanata Shinkai
-
- “hello~♪ i am shinkai kanata from ryuseitai.”
-“i love the ocean, so i often take walks on the [beach] and [bathe] in [water]. i also love [fishies]~♪”
-
-”to give your life a plentiful amount of [replenishment] as well, i will deliver many [songs] to you.”
-
-“so i would love it if you would cheer for me. puka, puka…♪”
-
-
-  
-  
-  
-  
-↑ Radio calisthenics (ラジオ体操 lit., &quot;radio exercises&quot;) are warm-up exercises performed to music and guidance from radio broadcasts.↑ This is TPO (time, place, and occasion): there is a time and place for everything. For Souma, that's about being mindful of social expectations before he pulls out his sword. Adonis explains it to him in Resurrection Sunday]]></content>
-  </entry>
-  <entry>
-    <title>9th Anniversary Log-In | Keito and Kanata</title>
-    <url>/translation//9th_anniversary_dialogue/</url>
-    <content><![CDATA[
- .translationsquare video {
-  /* Make video to at least 100% wide and tall */
-  max-width: 100%; 
-  max-height: 100%; 
-
-  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
-  width: auto;
-  height: auto;
-}
-
-
-
-Let’s give everyone here a performance they won’t forget. Come on, Shinkai, don’t space out, let’s go.
-
-i’m not [spacing out]…? I was puka-pukaing to the sway of all the [penlights]~
-
-  
-  
-  
-  
-]]></content>
-  </entry>
-  <entry>
     <title>Samurais &amp; Ninjas</title>
     <url>/translation//samurais_and_ninjas/</url>
     <content><![CDATA[
@@ -3094,8 +3252,8 @@ Thank you for making my comrade’s dreams come true.
 Hmph. It&#39;s still autumn, it would be bad if you burnt out here.
 The organizers said that if things keep going like this, they would like to consider holding additional performances or releasing a second round... There may also be an opportunity to do a similar live in the future.
 
-I’m looking forward to it~ Next time, I want to play the role of “Samurai-san”, too~
-The other day, Souma taught me how to use a “katana”~♪
+i’m looking forward to it~ next time, i want to play the role of [samurai-san], too~
+the other day, souma taught me how to use a [katana]~♪1
 
 It’s risky to let Buchou-dono handle blades, so I’d rather he doesn’t, but…
 I&#39;ve grown a little interested in ninjas, too. Why don&#39;t you teach me the basics next time, Sengoku?
@@ -3120,7 +3278,7 @@ Now that Sengoku has done what he wants to do, it might be Takamine&#39;s turn n
 
 Uu~... Right now, I just want to go home and sleep in bed...
 
-What a silly comedy this is, like Manjuu Kowai. Alright, that’s all from me. I’ll take my leave now, so onto the next speaker.
+What a silly comedy this is, like Manjuu Kowai.2 Alright, that’s all from me. I’ll take my leave now, so onto the next speaker.
 
 Epilogue 2
 
@@ -3159,7 +3317,7 @@ If Anzu-dono weren’t here with me, I’d constantly have to grapple with being
   
 
 Translation Notes
-]]></content>
+↑ A reference to Crash Course, where members from different units trained together by swapping out their aesthetics. Kanata and Souma paired together, and their cards have them wearing each other's outfits.↑ 落語 (rakugo, lit. a story with a fall ) is a comedic theatre act where one person tells a story and acts out multiple parts. Think of it like stand-up comedy, and read more here. Manjuu Kowai is a famous rakugo routine, which you can read about here. &quot;お後がよろしいようで&quot; is a segue during rakugo performances, where one introduces the next act before leaving the stage.]]></content>
   </entry>
   <entry>
     <title>Scroll of the Elements Prologue</title>
@@ -3293,14 +3451,14 @@ Ah, you finally noticed me. Ehehe, good morning～♪
 Yes! Look, look here at this sculpture of Frog-san!
 The sign said you could climb on and take photos, so I decided to go for a ride～♪
 Please spare me from any scolding about how it’s embarrassing that I’m doing this as a high schooler, okay? This was a dream of mine, so please take a photo♪
-Peace ☆ Don’t I look like Jiraiya? Ninpou, Toad no Jutsu~♪
-Anzu-dono, I’d like you to play Orochimaru or Tsunade! — Eh, don&#39;t you know about the three-way stalemate? Orochimaru has the snake and Tsunade has the slug~♪
+Peace ☆ Don’t I look like Jiraiya?1 Ninpou, Toad no Jutsu~♪
+Anzu-dono, I’d like you to play Orochimaru or Tsunade! — Eh, don&#39;t you know about the three-way stalemate?2 Orochimaru has the snake and Tsunade has the slug~♪
 Huh? &quot;Be careful not to lose your balance and fall into the pond?&quot;
 Don&#39;t look down on me, I&#39;m a ninja! Our main selling point is our agility...♪
 However, just in case... It would be bad if I got injured, or got wet and caught a cold before Scroll of the Elements.
 I will disembark from the statue. Farewell, Frog-san~♪
 Hup–! Once again, good morning! Anzu-dono, thank you for your hard work~♪
-Hm? What’s wrong? Why are you moving so strangely? Ooh, wait, are you hand-signing a jutsu?
+Hm? What’s wrong? Why are you moving so strangely? Ooh, wait, are you hand-signing a jutsu?3
 What? “Let me hug you...?” W-Why? Have you caught on to Taichou-dono’s hugging habit, Anzu-dono?
 G-Gh–!? Hey, don&#39;t forcibly hug me! It hurts!
 Hmm. Anzu-dono, your parents and younger brother will be away this weekend, so you’re feeling lonely, huh...
@@ -3322,7 +3480,7 @@ And I’m not your little brother either, you know…?
 
 Ohh, that’s Sengoku’s voice! I see that Anzu’s here too! The two of you are here so early! Wonderful, I can tell you’re both motivated☆
 I also arrived early, and have been making the rounds to greet people while checking the souvenir shops!
-I&#39;m sure you know this, but this tourist spot is also the holy land for tokusatsu...☆
+I&#39;m sure you know this, but this tourist spot is also the holy land for tokusatsu...☆4
 You see, I spotted a Shocker Combatman over there just a minute ago! I got his autograph! Ahh, I&#39;m so happy!
 My dream has come true~ This will become a family heirloom! Fuhahaha…☆
 
@@ -3393,7 +3551,7 @@ What? Why are you staring? I assure you, I’ve been given permission to use Han
 
 No, it’s just… You’re really good at drawing, aren’t you…?
 
-It’s the work of an amateur. I don’t have any art supplies right now, so I have no choice but to draw in an app on my tablet. I’m not accustomed to it, so the lines are shaky…
+It’s the work of an amateur5. I don’t have any art supplies right now, so I have no choice but to draw in an app on my tablet. I’m not accustomed to it, so the lines are shaky…
 Ghh… if only I’d practiced a little more on digital…
 
 It’s kinda unexpected. I always thought Vice President-san was a serious honor student…
@@ -3403,7 +3561,7 @@ How about I draw something for you? I’d like a good warm-up to get my fingers 
 
 Ah, then… Hikonyan…♪
 
-That Akazonae character? I only have a faint memory of that one too… Isn’t it the one that looks like mochi?
+That Akazonae character?6 I only have a faint memory of that one too… Isn’t it the one that looks like mochi?
 
 Ah— I have a key strap…
 My parents travel all around the country to buy vegetables, so I always ask them to buy me a yuru-character souvenir from wherever they go~♪
@@ -3471,7 +3629,7 @@ We’ll try to contact Kanzaki, so you all, check on the status of the other RYU
 Ahh, roger that! Midori-kun, do you know Shinkai-senpai’s phone number?
 
 Yeah, I know it… I picked out a cute smartphone for Shinkai-senpai&#39;s birthday...
-I was the only one who forgot about his birthday and didn’t prepare a present for him in time, so I got it for him to make up for my mistake...
+I was the only one who forgot about his birthday and didn’t prepare a present for him in time, so I got it for him to make up for my mistake...7
 Just a sec, I’ll give him a call…
 … Ah. Hello…? Shinkai-senpai…?
 
@@ -3500,7 +3658,7 @@ and so, i’m [fully motivated] for scroll of the elements, as well...～♪
 Hmph. Good to know, then. — Wait, no, it’s not. Get out of the river at once. It may still be early in the morning, but more tourists are arrriving…
 Don&#39;t expose the school&#39;s shame to the public too much, “Three Eccentrics”.
 
-i won’t listen to the [things you say]. never again…
+i won’t listen to the [things you say]. never again…8
 but i [didn’t mean] to cause [trouble] for the [children] of [ryuseitai].
 so, well... just this time, i’ll do [as you say] ♪
 
@@ -3520,7 +3678,7 @@ i feel kind of [warm], so i&#39;m sure i won&#39;t catch a [cold]...♪
   
 
 Translation Notes
-]]></content>
+↑ Ogata Shuma Hiroyuki, or Jiraiya (lit. &quot;Young Thunder&quot;) is the protagonist of the Japanese folk tale The Tale of Gallant Jiraiya. He's heavily associated with toads, and is often depicted riding a giant toad. Read more here.↑ In the same folktale, Tsunade is a young maiden who learns slug magic. Orochimaru is a robber who posesses snake magic. The relationship between Jiraiya (toad), Tsunade (slug) and Orochimaru (snake) is like rock-paper-scissors. Snake fears slug, slug fears toad, toad fears snake. Read more here↑ 術 (jutsu, lit. technique ). By hand-signing a jutsu, you're manipulating your chakra to perform the ninja technique (in Naruto, anyways).↑ From 特殊撮影技術 (lit. special effects technology), 特撮 (tokusatsu) refers to live-action films or TV-shows that use heavy special effects (SFX). One well known SFX tactic is the use of miniature sets or scale models. Subgenres of tokusatsu include kaiju (i.e., Godzilla), superheroes (i.e., Kamen Rider or Power Rangers), and mecha. It's kind of Chiaki's whole life. Read more here↑ Read more about Keito's secret life as the mangaka Mizuhanome-sensei here.↑ 赤備え (Akazonae lit. red arms ) is a military organization from the Sengoku period to the Edo period. As their name suggests, they were known for their use of bright red in all of their arms, which highly stood out in the battlefield. Read more here. Also, look up Hikonyan, it is very precious.↑ From Kanata's birthday story with Midori (!-Era). In general, everyone's mentioning his birthday because it's in late August, and Scroll of the Elements takes place in autumn.↑ Hm, I'm sure this won't come back in three years, when Meteor Impact is written. During Keito's villain monologue, it's revealed what Kanata means by this.]]></content>
   </entry>
   <entry>
     <title>Scroll of the Elements</title>
@@ -4241,7 +4399,7 @@ He always has needlessly long items hanging off of him, and yet he doesn’t car
 Well, when I contacted his parents, it seems that he’d already left home a while ago, so… I think he’ll be able to make it in time for rehearsal.
 Still, it feels like it’s getting a little too late. I’m worried. I hope he hasn’t gotten into an accident…
 
-Calm down, danna. He’s not a toddler taking his first steps or somethin’. You’d be lookin’ down on him, being so overprotective.
+Calm down, danna0 He’s not a toddler taking his first steps or somethin’. You’d be lookin’ down on him, being so overprotective.
 If something happened, he’d probably call you from a public phone or something or the other.
 Leave that aside for now — Let’s do costume fitting, and go over the script again.
 How does the costume feel? Is it difficult to move in? I’ll fix it up a bit if it is.
@@ -4253,7 +4411,7 @@ Yeah, the costumes, script and stage were all prepared by the staff.
 Sure enough, you can learn a lot from professional work. Look at the beauty of these seams~♪
 
 You’re in unusually good spirits, Kiryu.
-… I heard that while I was busy, you’ve been charging into various “B1” matches like you were storming dojos. But, well, it seems like it was a nice break for you.
+… I heard that while I was busy, you’ve been charging into various “B1” matches like you were storming dojos1. But, well, it seems like it was a nice break for you.
 
 I won’t do anything reckless, so don’t worry. I’m not gonna cause any trouble for AKATSUKI or the student council.
 I’m in a position of authority now, so I can’t be a naughty kid.
@@ -4272,7 +4430,7 @@ Eh, where? Mm… my eyesight might have gotten worse again.
 
 
 Hasumi-donooooo! Kiryu-donooooo! I apologize for arriving late…!
-Kanzaki Souma has arrived, please forgive my rudeness! To atone for being late, I will disembowel myself on the cross!
+Kanzaki Souma has arrived, please forgive my rudeness! To atone for being late, I will disembowel myself on the cross!2
 
 A HOOORSE?!
 K-... K-K… Kanzaki?! You—* *a-aah— even I can’t find the words for this—!
@@ -4283,12 +4441,12 @@ Are you nervous before the big stage? So Hasumi-dono also has a novice side to h
 O-Oi, Kanzaki? Stop for a sec, don’t just rush in without pause?!
 
 Ah—! Once more, please forgive me!
-This horse and I were in such harmony, I had forgotten that I was still riding! Ha-ha-ha☆
+This horse and I were in such harmony3, I had forgotten that I was still riding! Ha-ha-ha☆
 
-Kanzaki… For now, dismount that horse, and sit seiza there.
+Kanzaki… For now, dismount that horse, and sit seiza4 there.
 
 Huh? Hmm... I guess you&#39;re angry at me for being late, Hasumi-dono.
-Your anger is understandable. I will slit open my stomach promptly, then. I will leave the beheading to you♪
+Your anger is understandable. I will slit open my stomach promptly, then. I will leave the beheading to you~♪5
 
 Don&#39;t commit seppuku so easily. I’ve always wondered this about you, but from what era did you time-travel from?
 
@@ -4299,7 +4457,7 @@ And so, they didn’t pay for transportation, giving you no choice but to take a
 
 Ah, no. After a long period of convincing, my father and mother are finally showing some understanding.
 Hasumi-dono, Kiryu-dono, and Anzu-dono have all visited my home many times and spoke for me to them, after all.
-They can feel your sincerity. Besides, my parents aren&#39;t *that *antiquated. Some relatives still wear bitterness on their faces, though.
+They can feel your sincerity. Besides, my parents aren&#39;t that antiquated6. Some relatives still wear bitterness on their faces, though.
 I was the one who knocked on the door of Yumenosaki Academy with the desire to become an “aidoru”.
 No matter what anyone says, and no matter what hardships I may be given, my feelings will not change.
 But if it&#39;s a nuisance for AKATSUKI and everyone else... I have no choice but to apologize.
@@ -4342,9 +4500,9 @@ There, there, there... He’s bein’ real obedient, huh? What a very clever hor
 
 Um, everyone~? It’s gotten noisy for some reason, but has Kanzaki-dono arrived?
 If that&#39;s the case, I&#39;d like to do a rehearsal of the performance shortly~?
-— Is that a horse?! Wow, it really feels like I’ve traveled back in time to the Sengoku period~♪
+— Is that a horse?! Wow, it really feels like I’ve traveled back in time to the Sengoku period~♪7
 
-Hm, a scoundrel! I jest… Sengoku’s completely a ninja now~♪
+Hm, a scoundrel! I jest… Sengoku’s completely a ninja now~♪8
 
 I&#39;ve been a ninja from the beginning, haven&#39;t I~? Hehe, this is a real ninja costume made by a professional who works on period dramas!
 Well, it&#39;s a stage costume, so it&#39;s also flashy and colorful~♪
@@ -4393,14 +4551,14 @@ Whoa, you startled me. Morisawa, what’s wrong? Your complexion doesn’t look 
 
 Kiryu… Hasumi… What do you think love is?
 
-Hah? Don&#39;t touch the koi in that river, they cost millions of yen.
+Hah? Don&#39;t touch the koi9 in that river, they cost millions of yen.
 
 Hasumi’s dumbassery aside, Morisawa, why are you sayin’ things straight out of a shoujo manga. Get it together, this is outta character for you.
 
 Sorry, Taishou. Taichou’s been actin’ strange for a while now.
 There was some kinda weird misunderstanding when he saw Sengoku-kun and Anzu-anego hugging each other.
 As they said themselves, it&#39;s the same as when you hug Midori-kun and stuff, Taichou.
-It’s just skinship. It’s not love or anything, right?
+It’s just skinship.10 It’s not love or anything, right?
 
 Mmngh… I know, but it was so shocking, even I’m surprised by my reaction…
 Right, Anzu’s a girl… And we’re all healthy high school students…
@@ -4429,7 +4587,7 @@ please don&#39;t be conceited and think you&#39;re [fighting] all by yourself~�
   
 
 Translation Notes
-]]></content>
+↑ Kuro often refers to Keito as 旦那 (danna, lit. master ), or &quot;boss&quot;. He'll also use Hasumi-no-danna.↑ 道場破り (dojoyaburi, lit. dojo storming ). In martial arts, this is when someone visits rival martial arts schools and challenges its members to assert dominance over whose technique is better. If the dojo lost, its apprentices would abandon it for the winner's school. Read more here.↑ If you're new to AKATSUKI stories, Souma's running gag is regularly resorting to performing seppuku to make up for trouble. 切腹 (seppuku or harakiri, lit. belly-cutting ) was a form of ritualistic suicide samurai used for a variety of reasons. For Souma, that tends to be shame. Here, Souma got a little creative and threatened 十字割腹 (juuji kappuku).↑ 人馬一体 (jinba ittai, lit. person + horse + one body/unity ) is an idiom in four-character compound form.↑ 正座 (seiza, lit. proper sitting ) is a formal, traditional way of sitting, commonly used in martial arts, tea-ceremony, etc. It was developed among samurai in the Edo period. Its difficult to maintain for long periods of time, so Keito's using it as both a punishment, and a manner of getting Souma to sit still so he can lecture him. It's also a way for Souma to convey his respect. Read more here↑ 介錯 (kaishaku) is a secondary role to the act of seppuku. An appointed second person beheads the one who has committed seppuku to spare them from prolonged anguish. This is typically reserved for samurai who choose seppuku for the sake of honor, rather than shame.↑ Another four-character compound, 時代錯誤 (jidai sakugo, lit. age, era + error, mistake ), meaning anachronism, or a person/thing that seems to belong to a different time period↑ The Sengoku period (戦国時代) is the backdrop for Scroll of the Elements, Shinobu and Souma's characters as a whole: for starters, it's a homonym for Shinobu's last name 仙石 (sengoku).↑ A callback to their first meeting, in the Samurai and Ninjas idol story↑ Chiaki used the word 恋 (koi) for romantic love. Keito thought he said 鯉 (koi), the fish.↑ スキンシップ (wordplay on skin and kinship) is the general idea that people socially bond through physical skin-to-skin contact, especially family and loved ones. It also applies to spending time together naked, like at bathhouses, where more general groups of people like coworkers or classmates platonically bond.]]></content>
   </entry>
   <entry>
     <title>Warriors of Stormy Times</title>
@@ -4745,164 +4903,6 @@ Chapter 4
   
 
 Translation Notes
-]]></content>
-  </entry>
-  <entry>
-    <title>Many Minds, One Flower</title>
-    <url>/translation//many_minds_one_flower/</url>
-    <content><![CDATA[
- 
-    
-        
-            
-                
-                    Characters
-                
-                
-								
-                
-                
-                
-                
-                
-            
-            
-                
-                    Writer
-                
-                
-                    Yuumasu
-                
-            
-            
-                
-                    Translation
-                
-                
-                    citrinesea
-                
-            
-            
-                
-                   Proofreading
-                
-                
-                    310mc
-                
-            
-        
-    
-
-
-
-    Season: Summer
-
-
-    Location: Starmony Dorm Commons
-
-
- (... I know that singing and dancing aren’t the only jobs an idol does, but I never thought I&#39;d have to perform an ikebana1 demonstration)
-(As Rhythm Link’s representative, I have to make sure I present something that doesn’t bring shame to the agency.)
-
-…… all done~♪
-
- Really? I haven’t even put together the main materials yet. Do you have experience in this, by any chance—-
-…… Shinkai. What is that?
-
-what do you mean? it’s [ikebana], of course. from the school of [shinkai]2……☆
-
- There’s no helping you. Don’t claim to be a school as you please. No matter how you look at it, all you did was stick a fish onto the needle bed.
-We’re arranging flowers, not fish. This is beyond unacceptable. As STAR PRO’s representative, don’t you feel the least bit shameful?
-
-mmph… the only people who get to decide whether my [arrangement] is [acceptable] are the [beholders]. not you, [temple guy].☆
-is it [bad] if I don’t follow the [model]? if that’s the only way to get [recognized], that’s a little boring, isn’t it?
-anyway, I’ve grown tired of [ikebana], so i’m done here. i’m going to go [soak] in the [pond]……♪
-
-….. What an uninhibited guy. He does realize that this would make it a “coral arrangement”, not a “floral arrangement”, right?3
-(But Shinkai has a point. It’d be hard to say that it’s my work if I just stick to the textbook.)
-(However, you should only be creative and break the rules after you’ve learned them. If you take it on with your own style while you’re inexperienced, you’ll end up with a ridiculous work of art.)
-(Before anything else, I’ve got to thoroughly drill the basics in my head.)
-
-
-
-    One hour later
-
-(…… Hmm. This should be good enough for now.)
-(But it looks just like the picture in the textbook……)
-
-Hello. Are you doing ikebana? What an unusual hobby~
-
-Not quite. I’m going to be participating in a flower-arranging demonstration. This is just practice.
-
-I see. And this is… a fish arrangement? Is this your work too, Keito-kun?
-
-That would be Shinkai’s work. It stinks, as you’d expect from fish… It doesn’t look like he’ll be coming back either. I’ll have to go put this in the kitchen.
-That&#39;s right. Aoba, if you don&#39;t mind, could you give me your thoughts on my work? I can&#39;t really judge it for myself.
-
-My thoughts? Mmnnn~ I think it looks nice, but…
-
-Don’t hold back. I want your honest opinion.
-
-No, it&#39;s not that I’m holding back. I just don&#39;t know much about ikebana. I know a lot about flower meanings, though.
-Could I try it too? I feel like I could evaluate your work properly if I try it myself.
-
-Hmm. They do say that teaching is the best way to learn……
-
-(Sniff sniff)…  I thought it smelled like flowers here. It was you guys, huh?.
-
-Ah, good afternoon. How about you join us, Ogami-kun?
-
-Ehhh…?
-
-
-
-    Another hour later
-
-— And now for the arrangement. Place the flowers so that they fill in the gaps between the ones you just inserted.
-
-In the gaps, got it~
-
-Gaaaaah! I jumped in ‘cuz it looked interesting, but it’s taking forever! What a pain~!
-I mean, it&#39;s not rock ‘n roll to fit into the mold! I’m just gonna be me, like this, this ‘n — this!
-How’s that, Hasumi-senpai! This looks way more like an UNDEAD flower stand now. Cool, dontcha think~♪
-
-First it was Shinkai, now it’s you… You’re truly hopeless…… We’re making flower arrangements, not flower stands.
-
-I&#39;m baaack. Hah~, I&#39;m tired……
-Aoba-onii-chan, you’re holding something nice, huh. Gimme that rose~♪
-
-Of course, here you are.
-
-Thank you. (Nibble nibble)…
-
-— Y-You ate it?!
-
-I didn’t eat it. I just wanted to get energy from the rose~4
-Are you all playing with flowers together? How peaceful...
-
-It’s ikebana. Come to think of it, aren’t you also making an appearance on the show?
-
-Making an appearance.... Ah, that variety show. I see, so that’s why you’re doing this.
-I don’t think they expect us to be proficient at it, so do we really need to practice?
-We were invited to do our part as idols, so making the screen lively is enough, right?
-Kei-chan, your stamina has its bounds, right? If you give anything and everything your all, one of these days you’re going to collapse.
-
-Hmm. It’s a reasonable point.
-But in order to leave a good mark, I intend to put my entire heart and soul into the task. Rhythm Link is already packed with top veterans, after all.
-I’ll perform well so they’ll ask me to return. This is just me laying the groundwork in order to break into semi-regular status.
-
-Hmm…… Well, I guess I&#39;ll join you guys and have some fun with the flowers, too. You&#39;ll probably improve if you have a rival...
-And as NEW DI’s representative, I can&#39;t just stand by and watch…...♪
-
-Hmph, do whatever you like. You&#39;re probably more of a natural at this sort of thing than I am, but...
-Hard work will not betray me. I’ll have the last laugh.
-
-
-  
-  
-  
-  
-Translation Notes
-↑ Ikebana (生け花, lit. giving life to flowers) is the art of Japanese flower arrangement. Read about its principles and relationship with Buddhism here↑ Schools pass on the art of ikebana to students. Each individual school follows a particular set of principles, philosophies, and arranging techniques, all which vary depending on the school. Matching the name format of (school)-ryu (流), Kanata calls it 深海流 (School of Shinkai).↑ Originally, he says 生け花、生け魚 (flower arrangement, fish arrangement), but since it rhymed (hana, sakana), I wanted to preserve his pun.↑ A good reference for this is this Ritsu card from Fleur de Lis]]></content>
+↑ A reference to Pirate Festival.↑ It was more of the word of legends that ninjas would use kites for espionage, but they were used in ancient China for military purposes, among others. Kites were introduced from China to Japan in the seventh century. Read more here.↑ 起承転結 (kishoutenketsu) describes the structure of a narrative. In order, 起句 (kiku) is the introduction of characters and context, 承句 (sho) is the development of the story towards 転句 (ten) the twist, where the story takes an unexpected development, and finally 落ち (ketsu) the conclusion. 序破急 (johakyu) refers to the speed at which events happen. It's typically applied to tea ceremonies, marital arts, or theatre, but I thought the speed of music would better represent what he's talking about.↑ This resembles his 5* Scout quote from !-era.↑ RYUSEITAI (流星隊) means &quot;shooting star squadron&quot;, so the comet imagery has to do with that.↑ He's referring to himself, the Eccentrics, and the events of Meteor Impact. He uses the word ばけもの (bakemono), which were supernatural creatures that could shapeshift.↑ 武士道 (Bushido), or the &quot;way of the warrior&quot;, is the moral code of samurai which dictate the way they carry about their lives. Historically, there were several different codes and practices that samurai would follow, but Bushido can be used as a catch-all for the variety of them. Read more here.↑ Here, Shinobu uses 僕 (boku), a common masculine first-person pronoun, to refer to his old self. Shinobu's first-person pronoun is typically 拙者 (sessha, lit. clumsy person ), an archaic pronoun ninjas used. This whole line comes back in !!-era for Shinobu's Feature Scout story.↑ Souma finishes Shinobu's line. The full saying is from an Edo-era dodoitsu poem: &quot;People who meddle in other's love affairs will get kicked by a horse&quot;.↑ In the original Japanese text, Chiaki says this same line to AKATSUKI when they reunite in Submarine. Cute.↑ A shogi reference.↑ A ninja saying. The kanji for 忍 (ninja) is comprised of a 刃 (blade) on a 心 (heart). Conceptually, the two together represents the act of perserverence: even if there's a blade over their heart, they will get through. Now that's commitment to the bit. Read more here]]></content>
   </entry>
 </search>
