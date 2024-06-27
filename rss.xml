@@ -15,8 +15,73 @@
     <atom:link href="https://citrinesea.github.io/translation/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 21 Jun 2024 21:25:55 GMT</pubDate>
+    <pubDate>Thu, 27 Jun 2024 17:38:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>TV Anime Broadcast Countdown</title>
+      <link>https://citrinesea.github.io/translation/anime/</link>
+      <guid>https://citrinesea.github.io/translation/anime/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:38:53 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#008091;--storyColor-rgb:55,120,111;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+				&lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Kanata&quot; character=&quot;Kanata&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Chiaki&quot; character=&quot;Chiaki&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Shinobu&quot; character=&quot;Shinobu&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Midori&quot; character=&quot;Midori&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Tetora&quot; character=&quot;Tetora&quot;&gt;&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Special Thanks to
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://ensemble-stars.fandom.com/wiki/TV_Anime_Broadcast_Countdown&quot;&gt;Enstars Wiki Team&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;, &lt;a href=&quot;https://310mc.github.io/&quot; target=&quot;_blank&quot;&gt;310mc&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   Proofreading
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://310mc.github.io/&quot; target=&quot;_blank&quot;&gt;310mc&lt;/a&gt;, &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Originally translated for the  &lt;a href=&quot;https://ensemble-stars.fandom.com/wiki/TV_Anime_Broadcast_Countdown&quot;&gt;&lt;b&gt;TV Anime Broadcast Countdown page&lt;/b&gt;&lt;/a&gt; on the ES Wiki&lt;/p&gt;
+&lt;h2 id=&quot;Kanata-Shinkai&quot;&gt;Kanata Shinkai&lt;/h2&gt;
+&lt;img src=&quot;/translation/img/es/other/kanata-anime.jpg&quot; class=&quot;&quot;&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/anime/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hanafuda</title>
